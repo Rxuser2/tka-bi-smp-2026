@@ -4,7 +4,7 @@
   "subject": "Matematika",
   "minutes": 20,
   "durationNote": "20 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi dari sumber.",
-  "sourceNote": "Sumber: panel admin “Daftar Butir Soal: MATEMATIKA”, kode mapel TKA-MTK, 10 butir soal terpasang. Redaksi, pilihan yang terlihat, dan label kunci disalin dari tangkapan layar. Opsi yang terpotong ditandai sebagai rekonstruksi editorial pada paket modifikasi dan tidak diklaim sebagai teks sumber.",
+  "sourceNote": "Sumber tunggal: yoo.txt. Seluruh 10 wacana, pertanyaan, 49 pilihan jawaban, dan kunci disalin sesuai teks sumber.",
   "stimuli": [
     {
       "id": "S1",
@@ -15,11 +15,11 @@
         "Di sebuah pusat perbelanjaan modern diberlakukan sistem tarif parkir progresif untuk kendaraan roda empat (mobil). Tarif parkir untuk 2 jam pertama ditetapkan sebesar Rp10.000,00. Untuk setiap jam berikutnya (atau bagian dari pecahan satu jam) dikenakan biaya tambahan tetap sebesar Rp4.000,00 per jam. Pak Joko memarkir kendaraannya di lokasi tersebut mulai pukul 09.15 WIB dan selesai berbelanja lalu keluar dari area parkir pada pukul 14.45 WIB pada hari yang sama."
       ],
       "chart": [],
-      "note": "Wacana 1. Redaksi dan angka disalin dari panel admin.",
+      "note": "Wacana 1 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043131.png",
-        "Cuplikan layar 2026-11-05 043315.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 1: Tarif Parkir Progresif Kendaraan:"
     },
     {
       "id": "S2",
@@ -30,11 +30,11 @@
         "Pak Rahman berencana membuat kolam budidaya ikan nila berbentuk persegi panjang di pekarangan rumahnya. Keliling kolam yang dirancang adalah 48 meter. Berdasarkan perhitungan efisiensi aerasi air kolam, panjang kolam ditentukan harus 6 meter lebih panjang daripada ukuran lebarnya."
       ],
       "chart": [],
-      "note": "Wacana 2. Hanya opsi A–B yang terlihat pada tangkapan layar.",
+      "note": "Wacana 2 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043131.png",
-        "Cuplikan layar 2026-11-05 043315.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 2: Rancang Bangun Kolam Ikan Budidaya:"
     },
     {
       "id": "S3",
@@ -45,10 +45,11 @@
         "Menyambut hari ulang tahun kemerdekaan, sebuah toko pakaian menawarkan promosi khusus 'Diskon 50% + 20%'. Mekanisme promosi ini adalah harga awal pakaian dipotong sebesar 50% terlebih dahulu, kemudian harga setelah potongan pertama tersebut dipotong kembali sebesar 20%. Ibu Nina bermaksud membeli sebuah gaun pesta dengan label harga tertera sebelum diskon sebesar Rp350.000,00."
       ],
       "chart": [],
-      "note": "Wacana 3. Redaksi dan angka disalin dari panel admin.",
+      "note": "Wacana 3 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043144.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 3: Promo Diskon Bertingkat Department Store:"
     },
     {
       "id": "S4",
@@ -59,10 +60,11 @@
         "Di dalam gedung auditorium teater sekolah, deretan kursi penonton disusun bertingkat mengikuti pola barisan aritmetika. Baris pertama (paling depan) memuat 16 kursi penonton. Baris kedua berisi 20 kursi, baris ketiga berisi 24 kursi, dan baris-baris berikutnya selalu bertambah 4 kursi secara konstan hingga baris terakhir yaitu baris ke-15."
       ],
       "chart": [],
-      "note": "Wacana 4. Opsi E tidak terlihat pada tangkapan layar.",
+      "note": "Wacana 4 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043144.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 4: Tata Ruang Kursi Gedung Teater Seni:"
     },
     {
       "id": "S5",
@@ -73,10 +75,11 @@
         "Seorang penjaga pantai berdiri di anjungan pos menara pengawas yang memiliki ketinggian 24 meter tegak lurus di atas permukaan laut. Petugas tersebut mengamati sebuah perahu nelayan yang sedang lego jangkar di laut. Jarak pandang lurus (garis diagonal) dari mata petugas di pos menara menuju ke perahu nelayan adalah 30 meter."
       ],
       "chart": [],
-      "note": "Wacana 5. Redaksi dan angka disalin dari panel admin.",
+      "note": "Wacana 5 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043201.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 5: Pengamatan Pos Menara Penjaga Pantai:"
     },
     {
       "id": "S6",
@@ -87,10 +90,11 @@
         "Sebuah tandon penampungan air bersih berbentuk tabung (silinder) tegak memiliki diameter alas 140 cm (jari-jari r = 70 cm) dan tinggi tandon 100 cm. Tandon yang mula-mula kosong tersebut diisi menggunakan pipa saluran air dengan debit pengisian konstan sebesar 22 liter per menit. (Gunakan konstanta π = 22/7 dan konversi 1 liter = 1.000 cm³)."
       ],
       "chart": [],
-      "note": "Wacana 6. Hanya opsi A–B yang terlihat pada tangkapan layar.",
+      "note": "Wacana 6 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043201.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 6: Pengisian Tandon Air Silinder:"
     },
     {
       "id": "S7",
@@ -101,10 +105,11 @@
         "Sebanyak 20 siswa kelas lanjutan mengikuti tes kemampuan numerasi. Nilai yang diperoleh siswa dicatat secara terurut sebagai berikut: 65, 70, 70, 75, 75, 75, 80, 80, 80, 80, 85, 85, 85, 90, 90, 90, 95, 95, 100, 100. Guru ingin menganalisis tendensi sentral dari sebaran nilai tersebut guna mengevaluasi capaian pembelajaran."
       ],
       "chart": [],
-      "note": "Wacana 7. Redaksi dan data disalin dari panel admin.",
+      "note": "Wacana 7 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043658.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 7: Rekapitulasi Nilai Asesmen Matematika Siswa:"
     },
     {
       "id": "S8",
@@ -115,11 +120,11 @@
         "Di dalam sebuah kantong tertutup yang buram terdapat 5 butir bola berwarna merah, 4 butir bola berwarna biru, dan 3 butir bola berwarna kuning. Seluruh bola memiliki ukuran, bentuk, dan tekstur permukaan yang sama persis. Seorang siswa mengambil satu butir bola secara acak tanpa melihat ke dalam kantong."
       ],
       "chart": [],
-      "note": "Wacana 8. Redaksi dan angka disalin dari panel admin.",
+      "note": "Wacana 8 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043658.png",
-        "Cuplikan layar 2026-11-05 043705.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 8: Percobaan Pengambilan Bola Peluang:"
     },
     {
       "id": "S9",
@@ -127,14 +132,14 @@
       "title": "Lintasan Ketinggian Roket Air Fisika",
       "complete": true,
       "paragraphs": [
-        "Dalam kegiatan peragaan sains sekolah, sebuah roket air diluncurkan vertikal ke atas dari permukaan tanah. Persamaan ketinggian roket air h (dalam meter) setelah bergerak selama t detik dimodelkan oleh rumus fungsi kuadrat h(t) = 40t − 5t²."
+        "Dalam kegiatan peragaan sains sekolah, sebuah roket air diluncurkan vertikal ke atas dari permukaan tanah. Persamaan ketinggian roket air h (dalam meter) setelah bergerak selama t detik dimodelkan oleh rumus fungsi kuadrat h(t) = 40t - 5t²."
       ],
       "chart": [],
-      "note": "Wacana 9. Redaksi dan rumus disalin dari panel admin.",
+      "note": "Wacana 9 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043705.png",
-        "Cuplikan layar 2026-11-05 043719.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 9: Lintasan Ketinggian Roket Air Fisika:"
     },
     {
       "id": "S10",
@@ -142,39 +147,14 @@
       "title": "Alokasi Sisa Hasil Usaha Koperasi Sekolah",
       "complete": true,
       "paragraphs": [
-        "Koperasi siswa memperoleh total keuntungan bersih sebesar Rp20.000.000,00 pada tutup buku tahun ajaran. Sesuai keputusan rapat pleno anggota, pembagian dana dialokasikan sebagai berikut:",
-        "• 40% untuk dibagikan sebagai SHU Anggota",
-        "• 25% dicadangkan untuk Modal Tambahan Koperasi",
-        "• 20% diperuntukkan bagi Dana Pendidikan dan Pelatihan",
-        "• 15% disalurkan untuk Dana Sosial dan Pengurus"
+        "Koperasi siswa memperoleh total keuntungan bersih sebesar Rp20.000.000,00 pada tutup buku tahun ajaran. Sesuai keputusan rapat pleno anggota, pembagian dana dialokasikan sebagai berikut: • 40% untuk dibagikan sebagai SHU Anggota • 25% dicadangkan untuk Modal Tambahan Koperasi • 20% diperuntukkan bagi Dana Pendidikan dan Pelatihan • 15% disalurkan untuk Dana Sosial dan Pengurus"
       ],
-      "chart": [
-        [
-          "SHU Anggota",
-          40,
-          "Rp8.000.000,00"
-        ],
-        [
-          "Modal Tambahan",
-          25,
-          "Rp5.000.000,00"
-        ],
-        [
-          "Pendidikan dan Pelatihan",
-          20,
-          "Rp4.000.000,00"
-        ],
-        [
-          "Sosial dan Pengurus",
-          15,
-          "Rp3.000.000,00"
-        ]
-      ],
-      "note": "Wacana 10. Persentase dan nominal pada infografis dihitung dari total Rp20.000.000,00.",
+      "chart": [],
+      "note": "Wacana 10 · Sumber: yoo.txt",
       "sources": [
-        "Cuplikan layar 2026-11-05 043719.png",
-        "Cuplikan layar 2026-11-05 043725.png"
-      ]
+        "sources/yoo.txt"
+      ],
+      "sourceTitle": "Wacana 10: Alokasi Sisa Hasil Usaha Koperasi Sekolah:"
     }
   ],
   "questions": [
@@ -190,29 +170,29 @@
         "Rp30.000,00"
       ],
       "key": "C",
-      "explanation": "Parkir 09.15–14.45 = 5 jam 30 menit. Dua jam pertama Rp10.000,00. Sisa 3 jam 30 menit dihitung 4 jam karena setiap bagian jam dikenakan tarif penuh: 4 × Rp4.000,00 = Rp16.000,00. Total Rp10.000,00 + Rp16.000,00 = Rp26.000,00. Jawaban C. Opsi A memakai 3 jam; B memakai 3 jam lebih Rp2.000; D dan E menambah satu-dua jam penuh.",
+      "explanation": "Parkir 09.15–14.45 = 5 jam 30 menit. Dua jam pertama Rp10.000,00. Sisa 3 jam 30 menit dibulatkan ke 4 jam sesuai ketentuan pecahan jam. Total = Rp10.000,00 + 4 × Rp4.000,00 = Rp26.000,00. Jawaban C.",
       "form": "PG",
       "topic": "Aritmetika sosial",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043131.png",
-        "Cuplikan layar 2026-11-05 043315.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
       "issue": "",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "C",
         "result": "matches",
-        "note": "Kunci admin C cocok dengan perhitungan tarif progresif.",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043131.png",
-          "Cuplikan layar 2026-11-05 043315.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "C",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 2,
@@ -220,32 +200,35 @@
       "stem": "Luas permukaan dasar kolam ikan yang akan dibuat oleh Pak Rahman tersebut adalah...",
       "options": [
         "135 m²",
-        "140 m²"
+        "140 m²",
+        "144 m²",
+        "154 m²",
+        "160 m²"
       ],
       "key": "A",
-      "explanation": "Keliling 48 m, jadi p + l = 24 m. Panjang 6 m lebih dari lebar: p = l + 6. Maka 2l + 6 = 24, l = 9 m dan p = 15 m. Luas = 15 × 9 = 135 m². Jawaban A. Opsi 144 berasal dari 12 × 12 bila selisih 6 diabaikan; 150 dan 175 memakai pasangan lebar-panjang yang tidak memenuhi keliling 48.",
+      "explanation": "Keliling 48 m berarti p + l = 24 m. Karena p = l + 6, diperoleh 2l + 6 = 24, l = 9 m, dan p = 15 m. Luas = 15 × 9 = 135 m². Jawaban A.",
       "form": "PG",
       "topic": "Geometri",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043131.png",
-        "Cuplikan layar 2026-11-05 043315.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
-      "issue": "Opsi C–E tidak terlihat pada screenshot. Paket orisinal hanya memuat opsi yang terbaca.",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "issue": "",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "A",
         "result": "matches",
-        "note": "Kunci admin A cocok: 15 × 9 = 135 m².",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043131.png",
-          "Cuplikan layar 2026-11-05 043315.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "A",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 3,
@@ -259,27 +242,29 @@
         "Rp245.000,00"
       ],
       "key": "C",
-      "explanation": "Diskon pertama 50%: Rp350.000,00 × 0,5 = Rp175.000,00. Diskon kedua 20% dihitung dari harga setelah potongan pertama: Rp175.000,00 × 0,8 = Rp140.000,00. Jawaban C. Diskon berantai 50% + 20% sama dengan 60% dari harga awal, bukan 70%; opsi Rp105.000,00 adalah jebakan diskon 70%.",
+      "explanation": "Diskon pertama: Rp350.000,00 × 0,5 = Rp175.000,00. Diskon kedua diterapkan pada harga setelah potongan pertama: Rp175.000,00 × 0,8 = Rp140.000,00. Diskon efektif 60%, bukan 70%. Jawaban C.",
       "form": "PG",
       "topic": "Aritmetika sosial",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043144.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
       "issue": "",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "C",
         "result": "matches",
-        "note": "Kunci admin C cocok: 0,5 × 0,8 = 0,4 dari harga awal.",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043144.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "C",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 4,
@@ -289,30 +274,33 @@
         "580 kursi",
         "620 kursi",
         "660 kursi",
-        "720 kursi"
+        "720 kursi",
+        "780 kursi"
       ],
       "key": "C",
-      "explanation": "Barisan aritmetika dengan a = 16, b = 4, dan n = 15. S15 = 15/2 × (2·16 + 14·4) = 15/2 × 88 = 660 kursi. Jawaban C. Opsi 620 memakai 14 baris; 720 memakai suku terakhir 72 tanpa dibagi dua; 580 dan 760 melewatkan atau menambah satu suku.",
+      "explanation": "Barisan aritmetika dengan a = 16, b = 4, dan n = 15. Suku terakhir = 16 + 14 × 4 = 72 kursi. Total = 15/2 × (16 + 72) = 660 kursi. Jawaban C.",
       "form": "PG",
       "topic": "Barisan dan deret",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043144.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
-      "issue": "Opsi E tidak terlihat pada screenshot. Paket orisinal hanya memuat opsi yang terbaca.",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "issue": "",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "C",
         "result": "matches",
-        "note": "Kunci admin C cocok: S15 = 660 kursi.",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043144.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "C",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 5,
@@ -326,27 +314,29 @@
         "26 meter"
       ],
       "key": "B",
-      "explanation": "Menara, jarak horizontal, dan garis pandang membentuk segitiga siku-siku. x = √(30² − 24²) = √(900 − 576) = √324 = 18 meter. Jawaban B. Opsi lain hasil pengurangan atau penjumlahan langsung yang mengabaikan kuadrat.",
+      "explanation": "Tinggi menara dan jarak horizontal membentuk segitiga siku-siku dengan garis pandang sebagai sisi miring. Jarak horizontal = √(30² − 24²) = √(900 − 576) = √324 = 18 meter. Jawaban B.",
       "form": "PG",
       "topic": "Teorema Pythagoras",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043201.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
       "issue": "",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "B",
         "result": "matches",
-        "note": "Kunci admin B cocok: √324 = 18 meter.",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043201.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "B",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 6,
@@ -354,30 +344,35 @@
       "stem": "Waktu yang diperlukan untuk mengisi tandon penampungan air tersebut hingga penuh adalah...",
       "options": [
         "50 menit",
-        "60 menit"
+        "60 menit",
+        "70 menit",
+        "80 menit",
+        "90 menit"
       ],
-      "key": null,
-      "explanation": "Kunci admin menunjuk opsi C, tetapi opsi C–E tidak terlihat pada screenshot. Volume tabung 1.540 liter dan debit 22 liter/menit menghasilkan 70 menit; karena opsi 70 menit tidak tersedia di paket orisinal, nomor ini tidak dinilai. Versi modifikasi memuat opsi lengkapnya.",
+      "key": "C",
+      "explanation": "Jari-jari = 140/2 = 70 cm. Volume tabung = (22/7) × 70² × 100 = 1.540.000 cm³ = 1.540 liter. Waktu = volume/debit = 1.540/22 = 70 menit. Jawaban C.",
       "form": "PG",
       "topic": "Bangun ruang",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043201.png"
+        "sources/yoo.txt"
       ],
-      "status": "partial",
-      "issue": "Opsi C–E tidak terlihat dan kunci C tidak ada di antara opsi yang terbaca. Nomor ini tidak dinilai di paket orisinal; gunakan versi modifikasi.",
-      "keyOrigin": "Kunci C terbaca di panel admin, tetapi opsi C tidak terlihat",
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "C",
         "result": "matches",
-        "note": "Kunci admin C cocok: 1.540 L ÷ 22 L/menit = 70 menit.",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043201.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
-      "answerable": false,
-      "graded": false
+      "answerable": true,
+      "graded": true,
+      "sourceKey": "C",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 7,
@@ -391,27 +386,29 @@
         "Modus = 85 dan Median = 85"
       ],
       "key": "C",
-      "explanation": "Nilai 80 muncul empat kali; 75 dan 85 masing-masing tiga kali, jadi modus 80. Ada 20 data terurut, sehingga median adalah rata-rata data ke-10 dan ke-11: (80 + 85) ÷ 2 = 82,5. Jawaban C.",
+      "explanation": "Nilai 80 muncul empat kali, paling sering, sehingga modus = 80. Ada 20 data terurut; median adalah rata-rata data ke-10 dan ke-11, yaitu (80 + 85)/2 = 82,5. Jawaban C.",
       "form": "PG",
       "topic": "Statistika",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043658.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
       "issue": "",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "C",
         "result": "matches",
-        "note": "Kunci admin C cocok: modus 80, median 82,5.",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043658.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "C",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 8,
@@ -425,29 +422,29 @@
         "5/6"
       ],
       "key": "D",
-      "explanation": "Total bola = 5 + 4 + 3 = 12. Bola bukan kuning = 5 merah + 4 biru = 9. Peluang = 9/12 = 3/4. Jawaban D. Opsi 1/4 adalah peluang terambil kuning (3/12); 1/3 dan 5/6 memakai sebagian kelompok saja.",
+      "explanation": "Total bola = 5 + 4 + 3 = 12. Bola bukan kuning = 5 merah + 4 biru = 9. Peluang = 9/12 = 3/4. Jawaban D.",
       "form": "PG",
       "topic": "Peluang",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-05 043658.png",
-        "Cuplikan layar 2026-11-05 043705.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
       "issue": "",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "D",
         "result": "matches",
-        "note": "Kunci admin D cocok: 9/12 = 3/4.",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043658.png",
-          "Cuplikan layar 2026-11-05 043705.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "D",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 9,
@@ -461,29 +458,29 @@
         "100 meter"
       ],
       "key": "C",
-      "explanation": "h(t) = 40t − 5t². Puncak tercapai pada t = −b/(2a) = −40/(2 × −5) = 4 detik. h(4) = 40(4) − 5(4²) = 160 − 80 = 80 meter. Jawaban C. Opsi 100 adalah nilai 40t bila suku −5t² diabaikan.",
+      "explanation": "h(t) = 40t - 5t². Karena koefisien t² negatif, puncak parabola merupakan maksimum. Waktu puncak = −40/(2 × −5) = 4 detik. h(4) = 40 × 4 − 5 × 4² = 80 meter. Jawaban C.",
       "form": "PG",
       "topic": "Fungsi kuadrat",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043705.png",
-        "Cuplikan layar 2026-11-05 043719.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
       "issue": "",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "C",
         "result": "matches",
-        "note": "Kunci admin C cocok: puncak di t = 4 s, h = 80 m.",
+        "note": "Kunci yoo.txt cocok dengan perhitungan.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043705.png",
-          "Cuplikan layar 2026-11-05 043719.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "C",
+      "sourceForm": "PG Tunggal"
     },
     {
       "n": 10,
@@ -500,43 +497,45 @@
         "B",
         "D"
       ],
-      "explanation": "Basis Rp20.000.000,00. SHU 40% = Rp8.000.000,00 (pernyataan 1 benar). Modal 25% = Rp5.000.000,00 (pernyataan 2 benar; “Modal Cadangan” pada opsi merujuk “Modal Tambahan” 25% yang sama). Pendidikan 20% = Rp4.000.000,00 dan sosial 15% = Rp3.000.000,00, jadi sosial lebih kecil (pernyataan 3 salah). Selisih modal − pendidikan = Rp5.000.000,00 − Rp4.000.000,00 = Rp1.000.000,00 (pernyataan 4 benar). Jawaban opt1, opt2, opt4.",
+      "explanation": "Dari Rp20.000.000,00: SHU anggota 40% = Rp8.000.000,00; modal tambahan 25% = Rp5.000.000,00; pendidikan 20% = Rp4.000.000,00; sosial/pengurus 15% = Rp3.000.000,00. Pernyataan 1 dan 2 benar. Istilah Modal Cadangan pada opsi 2 merujuk alokasi Modal Tambahan yang sama. Pernyataan 3 salah karena dana sosial lebih kecil daripada pendidikan. Pernyataan 4 benar: selisih Rp5.000.000,00 − Rp4.000.000,00 = Rp1.000.000,00. Jawaban opt1, opt2, opt4 (A, B, D).",
       "form": "PGK MCMA",
       "topic": "Persentase",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-05 043719.png",
-        "Cuplikan layar 2026-11-05 043725.png"
+        "sources/yoo.txt"
       ],
       "status": "complete",
       "issue": "",
-      "keyOrigin": "Label kunci panel admin; diverifikasi dengan perhitungan",
+      "keyOrigin": "Kunci yoo.txt; diverifikasi dengan perhitungan",
       "adminReview": {
         "sourceKey": "opt1, opt2, opt4",
         "result": "matches",
-        "note": "Label admin opt1/opt2/opt4 diterjemahkan ke A/B/D. Opsi 2 menulis “Modal Cadangan”, stimulus menulis “Modal Tambahan” untuk alokasi 25% yang sama.",
+        "note": "Kunci sumber opt1, opt2, opt4 dipetakan ke A, B, D untuk penskoran; redaksi opsi tetap sesuai yoo.txt.",
         "sources": [
-          "Cuplikan layar 2026-11-05 043719.png",
-          "Cuplikan layar 2026-11-05 043725.png"
+          "sources/yoo.txt"
         ],
         "numberingConfirmed": true
       },
       "answerable": true,
-      "graded": true
+      "graded": true,
+      "sourceKey": "opt1, opt2, opt4",
+      "sourceForm": "PG Kompleks"
     }
   ],
   "analysis": "analisis-soal-ts-sick-boii.html",
   "original": true,
   "pdf": "Ts_Sick_Boii_Matematika_Soal_dan_Pembahasan.pdf",
-  "auditNote": "Sepuluh nomor dari panel admin TKA-MTK. Redaksi dan label kunci disalin apa adanya. Tiga nomor memiliki opsi terpotong; hanya opsi yang terlihat ditampilkan. Nomor 6 tidak dinilai karena kunci C menunjuk opsi yang tidak terlihat. Paket modifikasi melengkapi opsi tersebut dan menandainya.",
+  "auditNote": "Semua 10 soal lengkap dan dinilai. Kedua tautan Matematika memakai isi yoo.txt yang sama; tidak ada opsi rekonstruksi atau soal yang dikecualikan.",
   "variant": "original",
   "variantLabel": "Orisinal",
   "counterpart": "Ts_Sick_Boii_Matematika_Modifikasi.html",
-  "screenshotCount": 8,
-  "originalScreenshotCount": 8,
-  "adminScreenshotCount": 8,
-  "revision": "6b54dea4a4f3",
-  "storageKey": "ts-sick-boii-math-original-attempt-6b54dea4a4f3",
-  "lead": "Sepuluh soal TKA-MTK dari panel admin. Paket orisinal memuat opsi yang terlihat; paket modifikasi melengkapi opsi yang terpotong dan menandai rekonstruksinya. Seluruh stimulus dapat dibuka offline.",
-  "aboutHTML": "<p>Sepuluh nomor dari panel admin TKA-MTK. Redaksi dan label kunci disalin apa adanya. Tiga nomor memiliki opsi terpotong; hanya opsi yang terlihat ditampilkan. Nomor 6 tidak dinilai karena kunci C menunjuk opsi yang tidak terlihat. Paket modifikasi melengkapi opsi tersebut dan menandainya.</p><p>20 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi dari sumber.</p><p>Sumber: panel admin “Daftar Butir Soal: MATEMATIKA”, kode mapel TKA-MTK, 10 butir soal terpasang. Redaksi, pilihan yang terlihat, dan label kunci disalin dari tangkapan layar. Opsi yang terpotong ditandai sebagai rekonstruksi editorial pada paket modifikasi dan tidak diklaim sebagai teks sumber.</p><p>Semua label kunci admin diverifikasi dengan perhitungan. Opsi yang tidak terlihat pada screenshot ditandai; bukan teks sumber.</p><p><a href=\"analisis-soal-ts-sick-boii.html\">Lihat audit orisinal dan modifikasi</a>.</p>"
+  "screenshotCount": 0,
+  "originalScreenshotCount": 0,
+  "adminScreenshotCount": 0,
+  "lead": "Sepuluh soal Matematika dari yoo.txt, lengkap dengan seluruh pilihan jawaban. Kedua tautan memakai soal yang sama dan dapat dibuka offline.",
+  "aboutHTML": "<p>Semua 10 soal lengkap dan dinilai. Kedua tautan Matematika memakai isi yoo.txt yang sama; tidak ada opsi rekonstruksi atau soal yang dikecualikan.</p><p>20 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi dari sumber.</p><p>Sumber tunggal: yoo.txt. Seluruh 10 wacana, pertanyaan, 49 pilihan jawaban, dan kunci disalin sesuai teks sumber.</p><p>PGK Kompleks nomor 10 dinilai benar hanya jika seluruh kunci dipilih tanpa pilihan tambahan.</p><p><a href=\"sources/yoo.txt\">Baca teks sumber</a> · <a href=\"analisis-soal-ts-sick-boii.html\">Lihat soal dan audit kunci</a>.</p>",
+  "sourceFile": "sources/yoo.txt",
+  "sourceSha256": "9c458848cc023f11b39cddea9383fa1e1e92ff3b628e691292cc03ae877f5f51",
+  "revision": "b3af89fda558",
+  "storageKey": "ts-sick-boii-math-original-attempt-b3af89fda558"
 }

@@ -8,8 +8,8 @@ Situs latihan CBT mandiri untuk SMP/MTs. Tema **meme Mr. Robot** memakai tampila
 
 | Paket | Berkas | Isi |
 |---|---|---|
-| Matematika · Orisinal | [Ts_Sick_Boii_Matematika.html](Ts_Sick_Boii_Matematika.html) | 22 nomor sumber, 21 dinilai, 30 menit latihan; nomor 1 tetap placeholder |
-| Matematika · Modifikasi | [Ts_Sick_Boii_Matematika_Modifikasi.html](Ts_Sick_Boii_Matematika_Modifikasi.html) | 22 soal dinilai, 30 menit; nomor 1 pengganti dan perubahan redaksi ditandai |
+| Matematika · Orisinal | [Ts_Sick_Boii_Matematika.html](Ts_Sick_Boii_Matematika.html) | 10 soal lengkap dari yoo.txt, seluruhnya dinilai, 20 menit latihan |
+| Matematika · Salinan identik | [Ts_Sick_Boii_Matematika_Modifikasi.html](Ts_Sick_Boii_Matematika_Modifikasi.html) | Soal dan kunci identik; URL lama Modifikasi dipertahankan |
 | Final Boss · Bahasa Indonesia | [Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html](Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html) | 30 soal, 75 menit, 10 foto Wikimedia Commons |
 | Paket 1 · Bahasa Indonesia | [Simulasi_Interaktif_TKA_BI_SMP_2026.html](Simulasi_Interaktif_TKA_BI_SMP_2026.html) | 30 soal, 75 menit, 10 bacaan bergambar |
 | Paket 2 · Bahasa Indonesia | [Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html](Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html) | 30 soal berbeda, 75 menit, 10 bacaan bergambar |
@@ -18,24 +18,35 @@ Isi, gambar, kunci, pembahasan, dan revision key ketiga paket Bahasa Indonesia d
 
 ## Audit salinan Matematika
 
-[Soal kedua versi dan perbandingan kunci per nomor](analisis-soal-ts-sick-boii.html). **39 screenshot peserta + 5 screenshot super admin = 44 berkas**, seluruhnya dipetakan dan diberi hash.
+[Soal dan pembahasan per nomor](analisis-soal-ts-sick-boii.html) memakai **[yoo.txt](sources/yoo.txt) sebagai satu-satunya sumber**. Sumber lama tidak digunakan.
 
-- Nomor 1 orisinal: pertanyaan tidak tersedia dan pilihan masih placeholder. Label kunci A terlihat di admin, tetapi jawaban yang benar tidak bisa ditentukan tanpa pertanyaannya. Tidak dinilai.
-- Nomor 1 modifikasi: soal baru, 20% dari 80 soal = 16 butir; kunci A. Bukan klaim soal asli.
-- Nomor 20 dan 21 sudah dikonfirmasi melalui admin; keduanya masuk penskoran pada kedua versi.
-- Nomor 22: empat pernyataan tertulis di sumber, tetapi tabel asli hanya tiga baris placeholder. Versi interaktif memakai keempat pernyataan asli.
-- Nomor 6 dan 9 orisinal membutuhkan asumsi empat elemen total 100%. Versi modifikasi menambahkan Data dan Peluang 17,5% sebagai hasil derivasi editorial, bukan angka asli infografis.
-- Modifikasi nomor 3 memperbaiki satuan poin persentase, nomor 4 memperjelas alokasi waktu sebanding bobot, dan nomor 19 memperjelas opsi pemodelan pertumbuhan.
-- Admin menunjukkan kunci A pada semua PG yang labelnya terlihat. **13 label PG tidak sesuai jawaban hasil analisis**; nomor 12 sesuai. Contoh nomor 2: sumber A = 20, seharusnya B = 25. Nomor 1 tetap placeholder.
-- Label PGK `opt1` tidak memvalidasi seluruh kunci jamak; kategori `[object Object]` tidak terbaca sebagai kunci. Kunci nomor 19 tidak terlihat, sehingga tidak ditebak.
-- Pembahasan website dan PDF menyebut kunci orisinal admin, jawaban hasil analisis, dan alasan koreksi. Penskoran memakai jawaban editorial, bukan default admin yang keliru; bukan klaim kunci TKA resmi.
-- Waktu 30 menit merupakan durasi latihan pilihan situs, bukan klaim durasi resmi sumber.
+- Kesepuluh wacana, pertanyaan, dan seluruh 49 pilihan jawaban mengikuti teks sumber, termasuk tanda baca, angka, urutan, dan kunci.
+- Nomor 2 mempunyai opsi C–E `144 m²`, `154 m²`, `160 m²`; nomor 4 mempunyai opsi E `780 kursi`.
+- Nomor 6 kini lengkap: `50 menit`, `60 menit`, `70 menit`, `80 menit`, `90 menit`. Kunci C dan nomor ini ikut dinilai pada kedua tautan.
+- Nomor 7 memakai tepat 20 nilai dari sumber: modus 80, median 82,5.
+- Rumus nomor 9 tetap `h(t) = 40t - 5t²`, sesuai tanda minus pada sumber.
+- Nomor 10 mempertahankan paragraf alokasi asli tanpa grafik tambahan yang membocorkan nominal jawaban. Kunci `opt1, opt2, opt4` dipetakan ke A, B, D untuk penskoran. Semua kunci harus dipilih tanpa pilihan tambahan.
+- Kunci sesuai perhitungan: C, A, C, C, B, C, C, D, C, lalu opt1/opt2/opt4. Tidak ada soal yang dikecualikan atau pilihan rekonstruksi.
+- Durasi 20 menit adalah pilihan latihan situs, bukan durasi resmi sumber.
 
-Screenshot asli tidak dipublikasikan. Teks soal disalin; nama berkas dan hash tersedia di [source-manifest.json](source-manifest.json). Data [orisinal](data-matematika.json), [modifikasi](data-matematika-modifikasi.json), dan [audit kunci](key-audit.json) tersedia terpisah. Jawaban tersimpan pada kunci browser berbeda untuk setiap versi; data sesi paket Bahasa Indonesia tetap kompatibel.
+Hash sumber tersedia di [source-manifest.json](source-manifest.json). Data [orisinal](data-matematika.json), [salinan identik](data-matematika-modifikasi.json), dan [audit kunci](key-audit.json) tersedia terpisah. JSON tertanam pada kedua HTML ujian disinkronkan dengan data tersebut. Kunci browser Matematika diperbarui agar sesi lama dengan pilihan yang salah tidak dipulihkan. Data sesi Bahasa Indonesia tidak berubah.
 
 ## PDF soal dan pembahasan
 
-[Unduh satu PDF lengkap](Ts_Sick_Boii_Matematika_Soal_dan_Pembahasan.pdf): seluruh stimulus, lembar soal orisinal, lembar modifikasi, pembahasan kedua versi, koreksi kunci admin, dan inventaris sumber. Nomor 1 orisinal tetap ditulis sebagai placeholder, tidak diisi diam-diam. [Lembar HTML cetak](matematika-soal-dan-pembahasan.html) juga tersedia.
+[Unduh PDF revisi — 5 halaman](Ts_Sick_Boii_Matematika_Soal_dan_Pembahasan.pdf): 10 soal lengkap, seluruh pilihan, kunci, dan pembahasan dari yoo.txt. Tidak ada latihan tambahan atau lampiran sumber lama. [Lembar HTML cetak](matematika-soal-dan-pembahasan.html) memuat satu salinan soal yang sama.
+
+## Sinkronisasi dan pengujian Matematika
+
+Python 3.10+ dan Node.js 18+; tidak membutuhkan paket tambahan.
+
+```bash
+python scripts/sync_math.py
+python scripts/sync_math.py --check
+python scripts/test_math.py
+node scripts/test_math_engine.cjs
+```
+
+Sinkronisasi hanya menyentuh artefak Matematika. Pengujian memeriksa kesamaan teks sumber, JSON eksternal dan tertanam, lembar audit/cetak, kunci, penilaian PG/PGK, pemulihan sesi, serta hash ketiga paket Bahasa Indonesia. PDF revisi dipertahankan sebagai artefak terverifikasi; script sinkronisasi tidak membuat ulang PDF.
 
 ## Penggunaan offline
 

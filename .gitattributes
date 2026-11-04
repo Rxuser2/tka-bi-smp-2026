@@ -1,0 +1,2 @@
+# Preserve the authoritative text byte-for-byte, including its final space.
+sources/yoo.txt -text whitespace=-blank-at-eol

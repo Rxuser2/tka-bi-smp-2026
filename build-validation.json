@@ -1,17 +1,15 @@
 {
-  "screenshots": 8,
+  "screenshots": 0,
   "participant_screenshots": 0,
-  "admin_screenshots": 8,
+  "admin_screenshots": 0,
   "math_numbers": 10,
-  "math_graded": 9,
+  "math_graded": 10,
   "modified_graded": 10,
   "math_forms": {
-    "PG": 8,
+    "PG": 9,
     "PGK MCMA": 1
   },
-  "excluded": [
-    6
-  ],
+  "excluded": [],
   "output": "ts-sick-boii-site",
   "files": [
     "Simulasi_Interaktif_TKA_BI_SMP_2026.html",
@@ -27,6 +25,15 @@
     "index.html",
     "key-audit.json",
     "matematika-soal-dan-pembahasan.html",
-    "source-manifest.json"
-  ]
+    "scripts/sync_math.py",
+    "scripts/test_math.py",
+    "scripts/test_math_engine.cjs",
+    "source-manifest.json",
+    "sources/yoo.txt"
+  ],
+  "source": "sources/yoo.txt",
+  "source_sha256": "9c458848cc023f11b39cddea9383fa1e1e92ff3b628e691292cc03ae877f5f51",
+  "math_options": 49,
+  "pdf_pages": 5,
+  "pdf_sha256": "51e53262d79be3957f0c82112de35ebc1fd823b4283d5e60811cadd852ac7479"
 }

@@ -1,6 +1,7 @@
 {
-  "screenshots": 8,
-  "originalGraded": 9,
+  "source": "sources/yoo.txt",
+  "screenshots": 0,
+  "originalGraded": 10,
   "modifiedGraded": 10,
   "sourceNumbers": [
     1,
@@ -14,16 +15,8 @@
     9,
     10
   ],
-  "modifiedNumbers": [
-    2,
-    4,
-    6
-  ],
-  "reconstructedOptions": [
-    2,
-    4,
-    6
-  ],
+  "modifiedNumbers": [],
+  "reconstructedOptions": [],
   "comparison": [
     {
       "n": 1,
@@ -32,11 +25,10 @@
       "editorialKey": "C",
       "correctedAnswer": "C — Rp26.000,00",
       "result": "matches",
-      "note": "Kunci admin C cocok dengan perhitungan tarif progresif.",
-      "explanation": "Parkir 09.15–14.45 = 5 jam 30 menit. Dua jam pertama Rp10.000,00. Sisa 3 jam 30 menit dihitung 4 jam karena setiap bagian jam dikenakan tarif penuh: 4 × Rp4.000,00 = Rp16.000,00. Total Rp10.000,00 + Rp16.000,00 = Rp26.000,00. Jawaban C. Opsi A memakai 3 jam; B memakai 3 jam lebih Rp2.000; D dan E menambah satu-dua jam penuh.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "Parkir 09.15–14.45 = 5 jam 30 menit. Dua jam pertama Rp10.000,00. Sisa 3 jam 30 menit dibulatkan ke 4 jam sesuai ketentuan pecahan jam. Total = Rp10.000,00 + 4 × Rp4.000,00 = Rp26.000,00. Jawaban C.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043131.png",
-        "Cuplikan layar 2026-11-05 043315.png"
+        "sources/yoo.txt"
       ]
     },
     {
@@ -46,11 +38,10 @@
       "editorialKey": "A",
       "correctedAnswer": "A — 135 m²",
       "result": "matches",
-      "note": "Kunci admin A cocok: 15 × 9 = 135 m².",
-      "explanation": "Keliling 48 m, jadi p + l = 24 m. Panjang 6 m lebih dari lebar: p = l + 6. Maka 2l + 6 = 24, l = 9 m dan p = 15 m. Luas = 15 × 9 = 135 m². Jawaban A. Opsi 144 berasal dari 12 × 12 bila selisih 6 diabaikan; 150 dan 175 memakai pasangan lebar-panjang yang tidak memenuhi keliling 48.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "Keliling 48 m berarti p + l = 24 m. Karena p = l + 6, diperoleh 2l + 6 = 24, l = 9 m, dan p = 15 m. Luas = 15 × 9 = 135 m². Jawaban A.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043131.png",
-        "Cuplikan layar 2026-11-05 043315.png"
+        "sources/yoo.txt"
       ]
     },
     {
@@ -60,10 +51,10 @@
       "editorialKey": "C",
       "correctedAnswer": "C — Rp140.000,00",
       "result": "matches",
-      "note": "Kunci admin C cocok: 0,5 × 0,8 = 0,4 dari harga awal.",
-      "explanation": "Diskon pertama 50%: Rp350.000,00 × 0,5 = Rp175.000,00. Diskon kedua 20% dihitung dari harga setelah potongan pertama: Rp175.000,00 × 0,8 = Rp140.000,00. Jawaban C. Diskon berantai 50% + 20% sama dengan 60% dari harga awal, bukan 70%; opsi Rp105.000,00 adalah jebakan diskon 70%.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "Diskon pertama: Rp350.000,00 × 0,5 = Rp175.000,00. Diskon kedua diterapkan pada harga setelah potongan pertama: Rp175.000,00 × 0,8 = Rp140.000,00. Diskon efektif 60%, bukan 70%. Jawaban C.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043144.png"
+        "sources/yoo.txt"
       ]
     },
     {
@@ -73,10 +64,10 @@
       "editorialKey": "C",
       "correctedAnswer": "C — 660 kursi",
       "result": "matches",
-      "note": "Kunci admin C cocok: S15 = 660 kursi.",
-      "explanation": "Barisan aritmetika dengan a = 16, b = 4, dan n = 15. S15 = 15/2 × (2·16 + 14·4) = 15/2 × 88 = 660 kursi. Jawaban C. Opsi 620 memakai 14 baris; 720 memakai suku terakhir 72 tanpa dibagi dua; 580 dan 760 melewatkan atau menambah satu suku.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "Barisan aritmetika dengan a = 16, b = 4, dan n = 15. Suku terakhir = 16 + 14 × 4 = 72 kursi. Total = 15/2 × (16 + 72) = 660 kursi. Jawaban C.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043144.png"
+        "sources/yoo.txt"
       ]
     },
     {
@@ -86,23 +77,23 @@
       "editorialKey": "B",
       "correctedAnswer": "B — 18 meter",
       "result": "matches",
-      "note": "Kunci admin B cocok: √324 = 18 meter.",
-      "explanation": "Menara, jarak horizontal, dan garis pandang membentuk segitiga siku-siku. x = √(30² − 24²) = √(900 − 576) = √324 = 18 meter. Jawaban B. Opsi lain hasil pengurangan atau penjumlahan langsung yang mengabaikan kuadrat.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "Tinggi menara dan jarak horizontal membentuk segitiga siku-siku dengan garis pandang sebagai sisi miring. Jarak horizontal = √(30² − 24²) = √(900 − 576) = √324 = 18 meter. Jawaban B.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043201.png"
+        "sources/yoo.txt"
       ]
     },
     {
       "n": 6,
       "sourceKey": "C",
-      "sourceAnswer": "C — (opsi tidak terlihat pada screenshot)",
-      "editorialKey": null,
-      "correctedAnswer": "Tidak dapat ditentukan: opsi kunci tidak terlihat pada screenshot",
+      "sourceAnswer": "C — 70 menit",
+      "editorialKey": "C",
+      "correctedAnswer": "C — 70 menit",
       "result": "matches",
-      "note": "Kunci admin C cocok: 1.540 L ÷ 22 L/menit = 70 menit.",
-      "explanation": "Kunci admin menunjuk opsi C, tetapi opsi C–E tidak terlihat pada screenshot. Volume tabung 1.540 liter dan debit 22 liter/menit menghasilkan 70 menit; karena opsi 70 menit tidak tersedia di paket orisinal, nomor ini tidak dinilai. Versi modifikasi memuat opsi lengkapnya.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "Jari-jari = 140/2 = 70 cm. Volume tabung = (22/7) × 70² × 100 = 1.540.000 cm³ = 1.540 liter. Waktu = volume/debit = 1.540/22 = 70 menit. Jawaban C.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043201.png"
+        "sources/yoo.txt"
       ]
     },
     {
@@ -112,10 +103,10 @@
       "editorialKey": "C",
       "correctedAnswer": "C — Modus = 80 dan Median = 82,5",
       "result": "matches",
-      "note": "Kunci admin C cocok: modus 80, median 82,5.",
-      "explanation": "Nilai 80 muncul empat kali; 75 dan 85 masing-masing tiga kali, jadi modus 80. Ada 20 data terurut, sehingga median adalah rata-rata data ke-10 dan ke-11: (80 + 85) ÷ 2 = 82,5. Jawaban C.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "Nilai 80 muncul empat kali, paling sering, sehingga modus = 80. Ada 20 data terurut; median adalah rata-rata data ke-10 dan ke-11, yaitu (80 + 85)/2 = 82,5. Jawaban C.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043658.png"
+        "sources/yoo.txt"
       ]
     },
     {
@@ -125,11 +116,10 @@
       "editorialKey": "D",
       "correctedAnswer": "D — 3/4",
       "result": "matches",
-      "note": "Kunci admin D cocok: 9/12 = 3/4.",
-      "explanation": "Total bola = 5 + 4 + 3 = 12. Bola bukan kuning = 5 merah + 4 biru = 9. Peluang = 9/12 = 3/4. Jawaban D. Opsi 1/4 adalah peluang terambil kuning (3/12); 1/3 dan 5/6 memakai sebagian kelompok saja.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "Total bola = 5 + 4 + 3 = 12. Bola bukan kuning = 5 merah + 4 biru = 9. Peluang = 9/12 = 3/4. Jawaban D.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043658.png",
-        "Cuplikan layar 2026-11-05 043705.png"
+        "sources/yoo.txt"
       ]
     },
     {
@@ -139,17 +129,16 @@
       "editorialKey": "C",
       "correctedAnswer": "C — 80 meter",
       "result": "matches",
-      "note": "Kunci admin C cocok: puncak di t = 4 s, h = 80 m.",
-      "explanation": "h(t) = 40t − 5t². Puncak tercapai pada t = −b/(2a) = −40/(2 × −5) = 4 detik. h(4) = 40(4) − 5(4²) = 160 − 80 = 80 meter. Jawaban C. Opsi 100 adalah nilai 40t bila suku −5t² diabaikan.",
+      "note": "Kunci yoo.txt cocok dengan perhitungan.",
+      "explanation": "h(t) = 40t - 5t². Karena koefisien t² negatif, puncak parabola merupakan maksimum. Waktu puncak = −40/(2 × −5) = 4 detik. h(4) = 40 × 4 − 5 × 4² = 80 meter. Jawaban C.",
       "sources": [
-        "Cuplikan layar 2026-11-05 043705.png",
-        "Cuplikan layar 2026-11-05 043719.png"
+        "sources/yoo.txt"
       ]
     },
     {
       "n": 10,
       "sourceKey": "opt1, opt2, opt4",
-      "sourceAnswer": "opt1 = A — Besar dana yang dibagikan sebagai SHU Anggota adalah Rp8.000.000,00.; opt2 = B — Alokasi Modal Cadangan Koperasi adalah sebesar Rp5.000.000,00.; opt4 = D — Selisih nominal modal cadangan dan dana pendidikan adalah Rp1.000.000,00.",
+      "sourceAnswer": "A — Besar dana yang dibagikan sebagai SHU Anggota adalah Rp8.000.000,00.; B — Alokasi Modal Cadangan Koperasi adalah sebesar Rp5.000.000,00.; D — Selisih nominal modal cadangan dan dana pendidikan adalah Rp1.000.000,00.",
       "editorialKey": [
         "A",
         "B",
@@ -157,11 +146,10 @@
       ],
       "correctedAnswer": "A — Besar dana yang dibagikan sebagai SHU Anggota adalah Rp8.000.000,00.; B — Alokasi Modal Cadangan Koperasi adalah sebesar Rp5.000.000,00.; D — Selisih nominal modal cadangan dan dana pendidikan adalah Rp1.000.000,00.",
       "result": "matches",
-      "note": "Label admin opt1/opt2/opt4 diterjemahkan ke A/B/D. Opsi 2 menulis “Modal Cadangan”, stimulus menulis “Modal Tambahan” untuk alokasi 25% yang sama.",
-      "explanation": "Basis Rp20.000.000,00. SHU 40% = Rp8.000.000,00 (pernyataan 1 benar). Modal 25% = Rp5.000.000,00 (pernyataan 2 benar; “Modal Cadangan” pada opsi merujuk “Modal Tambahan” 25% yang sama). Pendidikan 20% = Rp4.000.000,00 dan sosial 15% = Rp3.000.000,00, jadi sosial lebih kecil (pernyataan 3 salah). Selisih modal − pendidikan = Rp5.000.000,00 − Rp4.000.000,00 = Rp1.000.000,00 (pernyataan 4 benar). Jawaban opt1, opt2, opt4.",
+      "note": "Kunci sumber opt1, opt2, opt4 dipetakan ke A, B, D untuk penskoran; redaksi opsi tetap sesuai yoo.txt.",
+      "explanation": "Dari Rp20.000.000,00: SHU anggota 40% = Rp8.000.000,00; modal tambahan 25% = Rp5.000.000,00; pendidikan 20% = Rp4.000.000,00; sosial/pengurus 15% = Rp3.000.000,00. Pernyataan 1 dan 2 benar. Istilah Modal Cadangan pada opsi 2 merujuk alokasi Modal Tambahan yang sama. Pernyataan 3 salah karena dana sosial lebih kecil daripada pendidikan. Pernyataan 4 benar: selisih Rp5.000.000,00 − Rp4.000.000,00 = Rp1.000.000,00. Jawaban opt1, opt2, opt4 (A, B, D).",
       "sources": [
-        "Cuplikan layar 2026-11-05 043719.png",
-        "Cuplikan layar 2026-11-05 043725.png"
+        "sources/yoo.txt"
       ]
     }
   ]

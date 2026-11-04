@@ -1,104 +1,31 @@
 [
   {
-    "file": "Cuplikan layar 2026-11-05 043131.png",
-    "sha256": "04ba61f1f532a4516265872a026242ff13ef293504fea49814d653276d4f75a3",
+    "file": "sources/yoo.txt",
+    "sha256": "9c458848cc023f11b39cddea9383fa1e1e92ff3b628e691292cc03ae877f5f51",
     "numbers": [
       "1",
-      "2"
-    ],
-    "stimuli": [
-      "1",
-      "2"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-05 043144.png",
-    "sha256": "598f8dbd07b7c9dea89e2593b2fafdebe700835a37f7e5f24dde7b9e3bec4a14",
-    "numbers": [
+      "2",
       "3",
-      "4"
-    ],
-    "stimuli": [
-      "3",
-      "4"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-05 043201.png",
-    "sha256": "6398e4d3069dffe2045c185c44bd4b1fb8b34a07e9824a9e70c1a0de804b65d6",
-    "numbers": [
+      "4",
       "5",
-      "6"
-    ],
-    "stimuli": [
-      "5",
-      "6"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-05 043315.png",
-    "sha256": "7bd4880a89092fab0bb21f3e360bdda3d2745ddeca3415c46579bdf4b607c6e0",
-    "numbers": [
-      "1",
-      "2"
-    ],
-    "stimuli": [
-      "1",
-      "2"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-05 043658.png",
-    "sha256": "08a2cfa92905f91e6916ecb4c4c9f9e05b4b61436c8d761cde72b2ff33b7b71a",
-    "numbers": [
+      "6",
       "7",
-      "8"
-    ],
-    "stimuli": [
-      "7",
-      "8"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-05 043705.png",
-    "sha256": "f6cade276b1fbdd0dd57ad75c412b0f191c424fa7a9ef75826947ff5fe158f83",
-    "numbers": [
       "8",
-      "9"
-    ],
-    "stimuli": [
-      "8",
-      "9"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-05 043719.png",
-    "sha256": "b67736c277ad928ee13d184311b71d71c368477fba5e5cf046afd2866cfc36a3",
-    "numbers": [
       "9",
       "10"
     ],
     "stimuli": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
       "9",
       "10"
     ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-05 043725.png",
-    "sha256": "e95b398a381a5e5901e8789ee5a313251f345444b63c57dd4d313f1d21ce38ae",
-    "numbers": [
-      "10"
-    ],
-    "stimuli": [
-      "10"
-    ],
-    "kind": "super-admin"
+    "kind": "authoritative-text"
   }
 ]

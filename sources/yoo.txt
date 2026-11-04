@@ -1,0 +1,118 @@
+oal Nomor 1
+PG Tunggal
+Kunci: C
+Wacana 1: Tarif Parkir Progresif Kendaraan:
+Di sebuah pusat perbelanjaan modern diberlakukan sistem tarif parkir progresif untuk kendaraan roda empat (mobil). Tarif parkir untuk 2 jam pertama ditetapkan sebesar Rp10.000,00. Untuk setiap jam berikutnya (atau bagian dari pecahan satu jam) dikenakan biaya tambahan tetap sebesar Rp4.000,00 per jam. Pak Joko memarkir kendaraannya di lokasi tersebut mulai pukul 09.15 WIB dan selesai berbelanja lalu keluar dari area parkir pada pukul 14.45 WIB pada hari yang sama.
+Berdasarkan ketentuan tarif di atas, berapakah total biaya parkir yang wajib dibayarkan oleh Pak Joko?
+A. Rp22.000,00
+B. Rp24.000,00
+C. Rp26.000,00
+D. Rp28.000,00
+E. Rp30.000,00
+2
+Soal Nomor 2
+PG Tunggal
+Kunci: A
+Wacana 2: Rancang Bangun Kolam Ikan Budidaya:
+Pak Rahman berencana membuat kolam budidaya ikan nila berbentuk persegi panjang di pekarangan rumahnya. Keliling kolam yang dirancang adalah 48 meter. Berdasarkan perhitungan efisiensi aerasi air kolam, panjang kolam ditentukan harus 6 meter lebih panjang daripada ukuran lebarnya.
+Luas permukaan dasar kolam ikan yang akan dibuat oleh Pak Rahman tersebut adalah...
+A. 135 m²
+B. 140 m²
+C. 144 m²
+D. 154 m²
+E. 160 m²
+3
+Soal Nomor 3
+PG Tunggal
+Kunci: C
+Wacana 3: Promo Diskon Bertingkat Department Store:
+Menyambut hari ulang tahun kemerdekaan, sebuah toko pakaian menawarkan promosi khusus 'Diskon 50% + 20%'. Mekanisme promosi ini adalah harga awal pakaian dipotong sebesar 50% terlebih dahulu, kemudian harga setelah potongan pertama tersebut dipotong kembali sebesar 20%. Ibu Nina bermaksud membeli sebuah gaun pesta dengan label harga tertera sebelum diskon sebesar Rp350.000,00.
+Jumlah uang yang harus dibayarkan Ibu Nina di meja kasir setelah mendapatkan promo diskon tersebut adalah...
+A. Rp105.000,00
+B. Rp120.000,00
+C. Rp140.000,00
+D. Rp175.000,00
+E. Rp245.000,00
+4
+Soal Nomor 4
+PG Tunggal
+Kunci: C
+Wacana 4: Tata Ruang Kursi Gedung Teater Seni:
+Di dalam gedung auditorium teater sekolah, deretan kursi penonton disusun bertingkat mengikuti pola barisan aritmetika. Baris pertama (paling depan) memuat 16 kursi penonton. Baris kedua berisi 20 kursi, baris ketiga berisi 24 kursi, dan baris-baris berikutnya selalu bertambah 4 kursi secara konstan hingga baris terakhir yaitu baris ke-15.
+Kapasitas total kursi penonton yang tersedia di dalam gedung auditorium tersebut adalah...
+A. 580 kursi
+B. 620 kursi
+C. 660 kursi
+D. 720 kursi
+E. 780 kursi
+5
+Soal Nomor 5
+PG Tunggal
+Kunci: B
+Wacana 5: Pengamatan Pos Menara Penjaga Pantai:
+Seorang penjaga pantai berdiri di anjungan pos menara pengawas yang memiliki ketinggian 24 meter tegak lurus di atas permukaan laut. Petugas tersebut mengamati sebuah perahu nelayan yang sedang lego jangkar di laut. Jarak pandang lurus (garis diagonal) dari mata petugas di pos menara menuju ke perahu nelayan adalah 30 meter.
+Berdasarkan prinsip teorema Pythagoras, jarak horizontal perahu nelayan tersebut dihitung dari dasar menara pantai adalah...
+A. 15 meter
+B. 18 meter
+C. 20 meter
+D. 22 meter
+E. 26 meter
+6
+Soal Nomor 6
+PG Tunggal
+Kunci: C
+Wacana 6: Pengisian Tandon Air Silinder:
+Sebuah tandon penampungan air bersih berbentuk tabung (silinder) tegak memiliki diameter alas 140 cm (jari-jari r = 70 cm) dan tinggi tandon 100 cm. Tandon yang mula-mula kosong tersebut diisi menggunakan pipa saluran air dengan debit pengisian konstan sebesar 22 liter per menit. (Gunakan konstanta π = 22/7 dan konversi 1 liter = 1.000 cm³).
+Waktu yang diperlukan untuk mengisi tandon penampungan air tersebut hingga penuh adalah...
+A. 50 menit
+B. 60 menit
+C. 70 menit
+D. 80 menit
+E. 90 menit
+7
+Soal Nomor 7
+PG Tunggal
+Kunci: C
+Wacana 7: Rekapitulasi Nilai Asesmen Matematika Siswa:
+Sebanyak 20 siswa kelas lanjutan mengikuti tes kemampuan numerasi. Nilai yang diperoleh siswa dicatat secara terurut sebagai berikut: 65, 70, 70, 75, 75, 75, 80, 80, 80, 80, 85, 85, 85, 90, 90, 90, 95, 95, 100, 100. Guru ingin menganalisis tendensi sentral dari sebaran nilai tersebut guna mengevaluasi capaian pembelajaran.
+Nilai modus (nilai yang paling sering muncul) dan median (nilai tengah) dari data asesmen di atas berturut-turut adalah...
+A. Modus = 75 dan Median = 80
+B. Modus = 80 dan Median = 80
+C. Modus = 80 dan Median = 82,5
+D. Modus = 85 dan Median = 80
+E. Modus = 85 dan Median = 85
+8
+Soal Nomor 8
+PG Tunggal
+Kunci: D
+Wacana 8: Percobaan Pengambilan Bola Peluang:
+Di dalam sebuah kantong tertutup yang buram terdapat 5 butir bola berwarna merah, 4 butir bola berwarna biru, dan 3 butir bola berwarna kuning. Seluruh bola memiliki ukuran, bentuk, dan tekstur permukaan yang sama persis. Seorang siswa mengambil satu butir bola secara acak tanpa melihat ke dalam kantong.
+Peluang teoritis terambilnya satu bola yang BUKAN berwarna kuning adalah...
+A. 1/4
+B. 1/3
+C. 1/2
+D. 3/4
+E. 5/6
+9
+Soal Nomor 9
+PG Tunggal
+Kunci: C
+Wacana 9: Lintasan Ketinggian Roket Air Fisika:
+Dalam kegiatan peragaan sains sekolah, sebuah roket air diluncurkan vertikal ke atas dari permukaan tanah. Persamaan ketinggian roket air h (dalam meter) setelah bergerak selama t detik dimodelkan oleh rumus fungsi kuadrat h(t) = 40t - 5t².
+Ketinggian maksimum yang dapat dicapai oleh roket air tersebut sebelum mulai jatuh kembali ke tanah adalah...
+A. 60 meter
+B. 75 meter
+C. 80 meter
+D. 90 meter
+E. 100 meter
+10
+Soal Nomor 10
+PG Kompleks
+Kunci: opt1, opt2, opt4
+Wacana 10: Alokasi Sisa Hasil Usaha Koperasi Sekolah:
+Koperasi siswa memperoleh total keuntungan bersih sebesar Rp20.000.000,00 pada tutup buku tahun ajaran. Sesuai keputusan rapat pleno anggota, pembagian dana dialokasikan sebagai berikut: • 40% untuk dibagikan sebagai SHU Anggota • 25% dicadangkan untuk Modal Tambahan Koperasi • 20% diperuntukkan bagi Dana Pendidikan dan Pelatihan • 15% disalurkan untuk Dana Sosial dan Pengurus
+Pilihlah seluruh pernyataan berikut yang BENAR terkait nominal alokasi dana koperasi tersebut (Jawaban benar dapat lebih dari satu):
+• Besar dana yang dibagikan sebagai SHU Anggota adalah Rp8.000.000,00.
+• Alokasi Modal Cadangan Koperasi adalah sebesar Rp5.000.000,00.
+• Dana sosial dan pengurus nominalnya lebih besar daripada dana pendidikan.
+• Selisih nominal modal cadangan dan dana pendidikan adalah Rp1.000.000,00. 

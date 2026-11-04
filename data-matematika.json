@@ -44,11 +44,11 @@
     },
     {
       "id": "M2",
-      "title": "Bobot Elemen Materi",
+      "title": "Analisis Distribusi Materi TKA SMP",
       "range": "6–10",
-      "complete": false,
+      "complete": true,
       "paragraphs": [
-        "elemen data dan peluang melatih siswa menafsirkan informasi statistik secara kritis. Keempat elemen ini membangun fondasi berpikir logis dan sistematis peserta didik. Integrasi antar elemen sangat diperlukan untuk memecahkan masalah kompleks secara efektif."
+        "Asesmen TKA SMP menguji kemampuan literasi numerasi peserta didik secara mendalam. Materi ini mencakup empat elemen utama yang saling berkaitan erat. Elemen aljabar memiliki bobot tertinggi dalam instrumen asesmen nasional saat ini. Peserta didik perlu memahami konsep dasar hingga penerapan dalam kehidupan nyata. Penguasaan aljabar membantu siswa dalam memodelkan biaya layanan digital modern. Elemen geometri dan pengukuran menjadi fokus penting dalam pelestarian budaya bangsa. Siswa dituntut menganalisis struktur bangunan candi di kawasan Trowulan secara matematis. Selain itu, elemen data dan peluang melatih siswa menafsirkan informasi statistik secara kritis. Keempat elemen ini membangun fondasi berpikir logis dan sistematis peserta didik. Integrasi antar elemen sangat diperlukan untuk memecahkan masalah kompleks secara efektif."
       ],
       "chart": [
         [
@@ -67,8 +67,9 @@
           "geometri dan pengukuran"
         ]
       ],
-      "note": "Awal stimulus tidak terlihat. Data elemen Data dan Peluang tidak tercantum dalam infografis sumber. Sisa 17,5% dapat diturunkan hanya jika empat elemen mencakup tepat 100%.",
+      "note": "Data elemen Data dan Peluang tidak tercantum dalam infografis sumber. Sisa 17,5% dapat diturunkan hanya jika empat elemen mencakup tepat 100%.",
       "sources": [
+        "Cuplikan layar 2026-11-04 174917.png",
         "Cuplikan layar 2026-11-04 174928.png"
       ]
     },
@@ -76,14 +77,31 @@
       "id": "M3",
       "title": "Integrasi Matematika dalam Kehidupan",
       "range": "11–14",
-      "complete": false,
+      "complete": true,
       "paragraphs": [
-        "Penerapan matematika sangat penting bagi kehidupan masyarakat modern saat ini. Siswa perlu memahami konsep bilangan hingga aljabar secara sangat mendalam. Penggunaan variabel dalam aljabar memudahkan kita memodelkan biaya layanan digital. Misalnya, biaya langganan aplikasi bulanan dapat dinyatakan dalam persamaan linear. Variabel tersebut membantu kita menghitung total pengeluaran secara cepat dan akurat. Selain aljabar, geometri juga memegang peranan krusial dalam perancangan struktur bangunan bersejarah. Kawasan Trowulan memiliki banyak candi dengan geometri yang sangat presisi dan unik."
+        "Penerapan matematika sangat penting bagi kehidupan masyarakat modern saat ini. Siswa perlu memahami konsep bilangan hingga aljabar secara sangat mendalam. Penggunaan variabel dalam aljabar memudahkan kita memodelkan biaya layanan digital. Misalnya, biaya langganan aplikasi bulanan dapat dinyatakan dalam persamaan linear. Variabel tersebut membantu kita menghitung total pengeluaran secara cepat dan akurat. Selain aljabar, geometri juga memegang peranan krusial dalam perancangan struktur bangunan bersejarah. Kawasan Trowulan memiliki banyak candi dengan geometri yang sangat presisi dan unik. Pengukuran luas dan volume bangun ruang membantu kita melestarikan warisan budaya tersebut. Analisis data prestasi olahraga juga memerlukan pemahaman peluang dan statistik yang baik. Keempat elemen ini saling berkaitan membentuk kemampuan berpikir logis bagi setiap siswa."
       ],
-      "chart": [],
-      "note": "Bagian akhir stimulus setelah kalimat tentang pengukuran luas dan volume terpotong. Soal 11–14 dapat dianalisis dari pertanyaan yang tersedia.",
+      "chart": [
+        [
+          "Aljabar",
+          35,
+          "pemodelan variabel dan fungsi"
+        ],
+        [
+          "Geometri",
+          30,
+          "bentuk dan pengukuran ruang"
+        ],
+        [
+          "Bilangan",
+          20,
+          "operasi aritmetika dan estimasi"
+        ]
+      ],
+      "note": "Analisis proporsi materi dalam TKA SMP. Infografis sumber hanya mencantumkan Aljabar, Geometri, dan Bilangan; tidak menampilkan persentase Data dan Peluang.",
       "sources": [
-        "Cuplikan layar 2026-11-04 175007.png"
+        "Cuplikan layar 2026-11-04 175007.png",
+        "Cuplikan layar 2026-11-04 175019.png"
       ]
     },
     {
@@ -542,23 +560,29 @@
     {
       "n": 15,
       "stimulus": "M4",
-      "stem": "Berdasarkan wacana, alasan utama pembelajaran matematika tidak hanya",
-      "options": [],
-      "key": null,
-      "explanation": "Hanya awal pertanyaan yang terlihat. Kelanjutan dan semua pilihan tidak ada dalam screenshot; nomor ini tidak dinilai.",
+      "stem": "Berdasarkan wacana, alasan utama pembelajaran matematika tidak hanya berfokus pada rumus adalah untuk mengembangkan …",
+      "options": [
+        "Kemampuan menghafal rumus secara cepat",
+        "Kemampuan memecahkan masalah kehidupan nyata",
+        "Kemampuan mengolah data statistik saja",
+        "Kemampuan memahami sejarah bangunan kuno"
+      ],
+      "key": "B",
+      "explanation": "Wacana menekankan pemahaman konsep, strategi, penafsiran informasi, dan penerapan matematika untuk memecahkan masalah kehidupan nyata. Opsi A hanya menghafal; C dan D membatasi penerapan pada satu bidang.",
       "form": "PG",
       "topic": "Penalaran",
       "level": "Mudah",
       "sources": [
         "Cuplikan layar 2026-11-04 175114.png",
         "Cuplikan layar 2026-11-04 175125.png",
-        "Cuplikan layar 2026-11-04 175130.png"
+        "Cuplikan layar 2026-11-04 175130.png",
+        "Cuplikan layar 2026-11-04 175135.png"
       ],
-      "status": "partial",
-      "issue": "Pertanyaan terpotong setelah kata 'hanya'; pilihan jawaban tidak tersedia.",
+      "status": "complete",
+      "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
-      "answerable": false,
-      "graded": false
+      "answerable": true,
+      "graded": true
     },
     {
       "n": 16,
@@ -671,23 +695,33 @@
     {
       "n": 20,
       "stimulus": "M5",
-      "stem": null,
-      "options": [],
-      "key": null,
-      "explanation": "Stimulus lengkap terlihat, tetapi pertanyaan dan pilihan nomor 20 tidak terekam. Nomor ini tidak dinilai.",
-      "form": "PG",
+      "stem": "Keterkaitan antar elemen dalam menyelesaikan masalah kompleks di kehidupan nyata ditunjukkan oleh …",
+      "options": [
+        "Menggunakan statistik (Data) untuk memprediksi tren biaya (Aljabar)",
+        "Menggunakan konsep bilangan untuk mengukur luas bangunan (Geometri)",
+        "Menggunakan aljabar untuk menghitung peluang kejadian (Data)",
+        "Menggunakan geometri untuk menentukan rerata nilai (Data)"
+      ],
+      "key": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A memadukan analisis statistik dengan model tren biaya. B memakai operasi bilangan dalam pengukuran luas geometri. C memakai bentuk dan operasi aljabar dalam rumus peluang, misalnya P(A) = n(A)/n(S). D tidak menunjukkan keterkaitan langsung: rerata nilai ditentukan melalui jumlah nilai dibagi banyak data, bukan geometri. Screenshot pertanyaan dipetakan ke nomor 20 berdasarkan urutan setelah stimulus nomor 20 dan sebelum stimulus nomor 21.",
+      "form": "PGK MCMA",
       "topic": "Penalaran",
-      "level": "Mudah",
+      "level": "Sedang",
       "sources": [
         "Cuplikan layar 2026-11-04 175203.png",
         "Cuplikan layar 2026-11-04 175215.png",
-        "Cuplikan layar 2026-11-04 175221.png"
+        "Cuplikan layar 2026-11-04 175221.png",
+        "Cuplikan layar 2026-11-04 175229.png"
       ],
-      "status": "missing",
-      "issue": "Hanya stimulus nomor 20 yang tersedia.",
+      "status": "complete",
+      "issue": "Nomor tidak tertulis pada potongan pertanyaan; dipetakan ke 20 berdasarkan urutan berkas dan kelompok stimulus. Kunci adalah analisis editorial.",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
-      "answerable": false,
-      "graded": false
+      "answerable": true,
+      "graded": true
     },
     {
       "n": 21,
@@ -758,8 +792,9 @@
   ],
   "analysis": "analisis-soal-ts-sick-boii.html",
   "original": true,
-  "revision": "d2464f8ff756",
-  "storageKey": "ts-sick-boii-math-attempt-d2464f8ff756",
+  "screenshotCount": 39,
+  "revision": "b7ab4b84805a",
+  "storageKey": "ts-sick-boii-math-attempt-b7ab4b84805a",
   "lead": "Matematika dari screenshotmu, disalin sebagai teks interaktif. Stimulus terhubung kembali ke setiap soal, dengan audit kelengkapan dan pembahasan hasil analisis.",
-  "aboutHTML": "<p>Seluruh 35 screenshot dibaca dan dipetakan ke 22 nomor. 18 nomor masuk penskoran. Nomor 1, 15, dan 20 belum lengkap. Penempatan screenshot pertanyaan yang diduga nomor 21 belum terkonfirmasi, sehingga tidak ikut skor. Tabel nomor 22 diperbaiki menjadi empat pernyataan asli.</p><p>30 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi yang terbukti dari screenshot.</p><p>Sumber yang tertulis pada screenshot: Disadur dari Kemendikbudristek, Buku Teks Pelajaran Tes Kemampuan Akademik (TKA) Kelas TKA SMP/MTs (Perkaban No. 047/H/AN/2025). Atribusi ini disalin dari screenshot; asal naskah dan distribusi bobotnya belum diverifikasi secara independen.</p><p>Kunci dan estimasi tingkat kesulitan merupakan hasil analisis editorial; bukan kunci resmi. Angka bobot berbeda antarestimulus dan dipakai hanya pada kelompok soal yang bersangkutan.</p><p><a href=\"analisis-soal-ts-sick-boii.html\">Buka analisis seluruh nomor dan inventaris screenshot</a>.</p>"
+  "aboutHTML": "<p>Seluruh 39 screenshot dibaca dan dipetakan ke 22 nomor. 20 nomor masuk penskoran. Awal stimulus 6–10, lanjutan stimulus dan infografis 11–14, serta pertanyaan 15 dan 20 telah dilengkapi dari empat screenshot tambahan. Nomor 1 belum lengkap. Penempatan screenshot pertanyaan yang diduga nomor 21 belum terkonfirmasi, sehingga tidak ikut skor. Nomor 20 dipetakan menurut urutan berkas setelah stimulus 20. Tabel nomor 22 diperbaiki menjadi empat pernyataan asli.</p><p>30 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi yang terbukti dari screenshot.</p><p>Sumber yang tertulis pada screenshot: Disadur dari Kemendikbudristek, Buku Teks Pelajaran Tes Kemampuan Akademik (TKA) Kelas TKA SMP/MTs (Perkaban No. 047/H/AN/2025). Atribusi ini disalin dari screenshot; asal naskah dan distribusi bobotnya belum diverifikasi secara independen.</p><p>Kunci dan estimasi tingkat kesulitan merupakan hasil analisis editorial; bukan kunci resmi. Angka bobot berbeda antarestimulus dan dipakai hanya pada kelompok soal yang bersangkutan.</p><p><a href=\"analisis-soal-ts-sick-boii.html\">Buka analisis seluruh nomor dan inventaris screenshot</a>.</p>"
 }

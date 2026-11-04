@@ -60,6 +60,14 @@
     "stimuli": []
   },
   {
+    "file": "Cuplikan layar 2026-11-04 174917.png",
+    "sha256": "6056eb12d78b14647b02c34dea69db3cb795653f33a84f439b0a595104fdf0b5",
+    "numbers": [],
+    "stimuli": [
+      "6–10"
+    ]
+  },
+  {
     "file": "Cuplikan layar 2026-11-04 174928.png",
     "sha256": "b679f82a6d8d2b820baf390f119d20279fc2e9be3adf61faa6ddb4fc98902f44",
     "numbers": [
@@ -115,6 +123,14 @@
     "numbers": [
       "11"
     ],
+    "stimuli": [
+      "11–14"
+    ]
+  },
+  {
+    "file": "Cuplikan layar 2026-11-04 175019.png",
+    "sha256": "af1ae5a226e944b1c657a9f02d76b645f7151540f1f91d4ba4377685c72cb110",
+    "numbers": [],
     "stimuli": [
       "11–14"
     ]
@@ -182,6 +198,14 @@
     ]
   },
   {
+    "file": "Cuplikan layar 2026-11-04 175135.png",
+    "sha256": "172e991e260472302890a3d798549f3b92662c0ba2f09b34571e2d95da1f91ec",
+    "numbers": [
+      "15"
+    ],
+    "stimuli": []
+  },
+  {
     "file": "Cuplikan layar 2026-11-04 175141.png",
     "sha256": "e545e7f02217b4df995ecfae8f648d7d00b04344e012bd6be9415611aaaa470d",
     "numbers": [
@@ -242,6 +266,14 @@
     "stimuli": [
       "20"
     ]
+  },
+  {
+    "file": "Cuplikan layar 2026-11-04 175229.png",
+    "sha256": "35e32ec11b6132c792882429db2de7f1a3046736484a81785896b2a28f9be328",
+    "numbers": [
+      "20"
+    ],
+    "stimuli": []
   },
   {
     "file": "Cuplikan layar 2026-11-04 175238.png",

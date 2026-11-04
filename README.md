@@ -1,35 +1,44 @@
-# Simulasi TKA Bahasa Indonesia SMP 2026
+# Ts Sick Boii · TKA Practice Lab
 
 **Live:** https://rxuser2.github.io/tka-bi-smp-2026/
 
-Tiga paket latihan membaca interaktif untuk SMP/MTs, dibuat sebagai satu berkas HTML mandiri. Setiap paket memuat 30 soal, 10 bacaan bergambar, pembahasan, mode malam, pengatur waktu 75 menit, dan penyimpanan jawaban di browser.
+Situs latihan CBT mandiri untuk SMP/MTs. UI baru memakai branding **Ts Sick Boii**, mode malam, pengaturan ukuran teks, navigasi nomor, penanda ragu-ragu, timer, autosave lokal, skor, dan pembahasan. Tidak ada data jawaban yang dikirim ke server.
 
 ## Paket
 
-| Paket | Berkas | Catatan |
+| Paket | Berkas | Isi |
 |---|---|---|
-| **Final Boss** | [Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html](Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html) | Foto dari Wikimedia Commons, pilihan jawaban seimbang, jebakan inferensial |
-| Paket 1 | [Simulasi_Interaktif_TKA_BI_SMP_2026.html](Simulasi_Interaktif_TKA_BI_SMP_2026.html) | Latihan pertama |
-| Paket 2 | [Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html](Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html) | Tema dan gambar berbeda |
+| Matematika · Salinan Screenshot | [Ts_Sick_Boii_Matematika.html](Ts_Sick_Boii_Matematika.html) | 22 nomor sumber, 18 nomor dinilai, 30 menit latihan |
+| Final Boss · Bahasa Indonesia | [Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html](Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html) | 30 soal, 75 menit, 10 foto Wikimedia Commons |
+| Paket 1 · Bahasa Indonesia | [Simulasi_Interaktif_TKA_BI_SMP_2026.html](Simulasi_Interaktif_TKA_BI_SMP_2026.html) | 30 soal, 75 menit, 10 bacaan bergambar |
+| Paket 2 · Bahasa Indonesia | [Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html](Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html) | 30 soal berbeda, 75 menit, 10 bacaan bergambar |
 
-Halaman pemilih paket: [index.html](index.html).
+Isi, gambar, kunci, pembahasan, dan revision key ketiga paket Bahasa Indonesia dipertahankan. Saved attempt lama tetap kompatibel.
 
-## Struktur latihan
+## Audit salinan Matematika
 
-- 30 soal: 18 PG, 6 PGK jawaban jamak, 6 PGK kategori.
-- 10 bacaan: informasi, fiksi, puisi, dan teks jamak.
-- 10 soal per kompetensi: Pemahaman Tekstual, Pemahaman Inferensial, Evaluasi dan Apresiasi.
-- Final Boss: 9 soal mudah, 12 sedang, 9 sulit; kunci PG tersebar A=4, B=5, C=5, D=4.
+[Analisis seluruh nomor dan inventaris 35 screenshot](analisis-soal-ts-sick-boii.html).
 
-## Penggunaan
+- Nomor 1: pertanyaan tidak terlihat; pilihan masih placeholder.
+- Nomor 15: awal pertanyaan terpotong, pilihan tidak tersedia.
+- Nomor 20: stimulus tersedia, pertanyaan dan pilihan tidak terekam.
+- Nomor 21: screenshot pertanyaan tidak menampilkan nomor. Penempatan berdasarkan urutan berkas belum terkonfirmasi; tidak masuk skor.
+- Nomor 22: empat pernyataan tertulis di sumber, tetapi tabel asli hanya tiga baris placeholder. Versi interaktif memakai keempat pernyataan asli.
+- Nomor 6 dan 9 membutuhkan asumsi empat elemen total 100% karena data satu elemen tidak dicantumkan.
+- Semua kunci Matematika merupakan analisis editorial, bukan kunci resmi yang diberikan sumber.
+- Waktu 30 menit merupakan durasi latihan pilihan situs, bukan klaim durasi resmi sumber.
 
-Buka `index.html` lalu pilih paket. Berkas HTML dapat diunduh dan dibuka langsung tanpa internet. Nama, jawaban, dan hasil disimpan hanya di `localStorage` browser; tidak ada data yang dikirim ke server.
+Screenshot asli tidak dipublikasikan karena memuat identitas peserta. Teks soal disalin; daftar filename dan hash tersedia di [source-manifest.json](source-manifest.json). Data salinan tersedia di [data-matematika.json](data-matematika.json).
 
-## Sumber dan lisensi
+## Penggunaan offline
 
-- Kerangka acuan: [Pusmendik — Kerangka Asesmen TKA SMP/MTs, Bahasa Indonesia](https://pusmendik.kemendikdasmen.go.id/tka/kerangka/smp/?jenis=mata-pelajaran-wajib&mapel=bahasa-indonesia) dan [Kepmendikdasmen Nomor 56 Tahun 2026](https://pusmendik.kemendikdasmen.go.id/tka/files/39870.pdf).
+Unduh HTML paket dan buka langsung. Masing-masing halaman ujian menyertakan seluruh teks, CSS, JavaScript, dan gambar. Untuk berpindah paket dan melihat audit, unduh juga `index.html` dan `analisis-soal-ts-sick-boii.html` pada folder yang sama.
+
+## Sumber Bahasa Indonesia dan foto
+
+- Kerangka publik [TKA SMP/MTs — Bahasa Indonesia](https://pusmendik.kemendikdasmen.go.id/tka/kerangka/smp/?jenis=mata-pelajaran-wajib&mapel=bahasa-indonesia) dan [Kepmendikdasmen Nomor 56 Tahun 2026](https://pusmendik.kemendikdasmen.go.id/tka/files/39870.pdf).
 - Pola soal merujuk dokumen *SOAL TKA SMP SANTO YUSUP 2025* yang disediakan pengguna.
-- Foto Final Boss berasal dari Wikimedia Commons. Penulis, lisensi, dan tautan halaman asal dicantumkan pada bagian **Tentang paket** di dalam simulasi serta pada takarir setiap gambar.
-- Tokoh, data, dan situasi dalam bacaan adalah fiksi atau simulasi, bukan pernyataan resmi tentang tempat nyata.
+- Foto Final Boss berasal dari Wikimedia Commons; penulis, lisensi, dan tautan asli tetap dicantumkan di takarir serta bagian Tentang paket.
+- Tokoh, data, dan situasi dalam paket Bahasa Indonesia merupakan fiksi atau simulasi.
 
-Paket ini bukan naskah resmi, bocoran, atau pengganti TKA.
+Ts Sick Boii adalah situs latihan mandiri, bukan situs resmi TKA. Skor dihitung 1 poin per nomor yang benar seluruhnya, bukan skor TKA resmi.

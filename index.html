@@ -1,64 +1,32 @@
 <!doctype html>
 <html lang="id">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
-<title>Simulasi TKA Bahasa Indonesia SMP 2026 — Pilih Paket</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark">
+<title>Ts Sick Boii · TKA Practice Lab</title>
 <style>
-  :root{--bg:#eef4f2;--card:#fff;--text:#16323c;--muted:#5e727a;--line:#d8e4df;--accent:#0a7d75;--accent-soft:#e0f3ef;--shadow:0 10px 30px #163a3514;--gold:#8a5a12;--gold-soft:#fbf1da}
-  @media (prefers-color-scheme:dark){:root{--bg:#101a21;--card:#1a2830;--text:#e6f1f4;--muted:#a6bac3;--line:#334751;--accent:#6ad9c8;--accent-soft:#203f3e;--shadow:0 10px 30px #0004;--gold:#e8bd6a;--gold-soft:#3a2f1c}}
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 "Segoe UI",Arial,sans-serif}
-  main{max-width:980px;margin:0 auto;padding:40px 20px 60px}
-  .eyebrow{font-size:12px;letter-spacing:2px;text-transform:uppercase;font-weight:700;color:var(--accent)}
-  h1{font-size:clamp(30px,5vw,44px);line-height:1.2;letter-spacing:-1.2px;margin:12px 0 14px}
-  .lead{color:var(--muted);max-width:680px;margin-bottom:30px}
-  .grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
-  .card{display:block;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px;text-decoration:none;color:inherit;box-shadow:var(--shadow);transition:transform .15s,border-color .15s}
-  .card:hover{transform:translateY(-3px);border-color:var(--accent)}
-  .card.featured{grid-column:1/-1;border-color:var(--gold);background:linear-gradient(135deg,var(--card),var(--gold-soft))}
-  .card.featured:hover{border-color:var(--gold)}
-  .tag{display:inline-block;background:var(--accent-soft);color:var(--accent);font-weight:700;font-size:12px;padding:4px 10px;border-radius:8px;margin-bottom:12px}
-  .featured .tag{background:var(--gold-soft);color:var(--gold);border:1px solid var(--gold)}
-  .card h2{font-size:21px;margin:0 0 8px}
-  .card p{margin:0;color:var(--muted);font-size:14px;max-width:64ch}
-  .facts{display:flex;gap:16px;margin-top:16px;font-size:13px;color:var(--muted);flex-wrap:wrap}
-  .facts b{display:block;font-size:18px;color:var(--text)}
-  .note{margin-top:26px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;font-size:14px;color:var(--muted)}
-  .note strong{color:var(--text)}
-  code{background:var(--accent-soft);color:var(--accent);padding:2px 7px;border-radius:6px;font-size:13px}
-  @media (max-width:640px){.grid{grid-template-columns:1fr}main{padding:26px 14px 44px}.card{padding:20px}}
+:root{color-scheme:light;--bg:#eef2fa;--card:#fff;--soft:#f5f7fc;--ink:#13213e;--muted:#5b6c89;--line:#dce4f1;--blue:#225aea;--blue-soft:#eaf0ff}
+html[data-theme="dark"]{color-scheme:dark;--bg:#080e1c;--card:#101a2c;--soft:#152239;--ink:#eaf0ff;--muted:#a4b2cb;--line:#273752;--blue:#9cb7ff;--blue-soft:#1c2f52}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 "Segoe UI",Arial,sans-serif}a{color:var(--blue)}button{font:inherit;cursor:pointer}a:focus-visible,button:focus-visible{outline:3px solid #8969ef;outline-offset:4px}.top{background:#0d1e42;color:white;border-bottom:1px solid #ffffff1c}.top-inner{max-width:1200px;padding:17px 26px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:14px}.brand{display:flex;gap:11px;align-items:center;text-decoration:none;color:white}.mark{width:40px;height:40px;background:linear-gradient(135deg,#4f82ff,#7855e9);border:1px solid #ffffff42;border-radius:12px;display:grid;place-items:center;font-size:16px;font-weight:900;letter-spacing:-1px}.brand b{display:block;font-size:17px}.brand small{display:block;color:#b4caff;font-size:8px;letter-spacing:2px;text-transform:uppercase}.actions{display:flex;gap:8px}.actions a,.actions button{background:#ffffff0b;border:1px solid #ffffff2e;color:white;text-decoration:none;padding:8px 13px;border-radius:9px;font-size:12px;min-height:40px}.actions a:hover,.actions button:hover{background:#ffffff24}main{max-width:1200px;padding:45px 26px 60px;margin:auto}.eyebrow{text-transform:uppercase;font-weight:800;font-size:10px;letter-spacing:2px;color:var(--blue)}.hero{display:grid;grid-template-columns:1.4fr 1fr;align-items:center;gap:36px;margin-bottom:40px}h1{font-size:clamp(39px,5vw,65px);line-height:1.09;letter-spacing:-2.5px;margin:19px 0 20px}h1 span{color:var(--blue)}.lead{font-size:16px;color:var(--muted);max-width:610px;margin-bottom:23px}.hero-links{display:flex;gap:10px;flex-wrap:wrap}.btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;font-weight:700;font-size:13px;padding:11px 17px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink)}.btn.primary{background:linear-gradient(135deg,#225aea,#6955df);border-color:#4968e7;color:white}.visual{position:relative;padding:30px;background:linear-gradient(135deg,#173a80,#28295e);border:1px solid #536ab588;border-radius:23px;color:white;overflow:hidden;box-shadow:0 22px 50px #10224f18}.visual::after{content:"";position:absolute;width:210px;height:210px;border:1px solid #ffffff1b;border-radius:50%;right:-80px;top:-80px}.visual-label{font-size:9px;letter-spacing:2px;color:#c6d3ff;text-transform:uppercase}.visual h2{font-size:24px;line-height:1.2;margin:16px 0 22px;letter-spacing:-.6px}.mock-row{padding:12px 13px;border:1px solid #ffffff30;border-radius:10px;margin:9px 0;background:#ffffff0b;display:flex;align-items:center;gap:12px;font-size:11px;color:#dbe5ff}.mock-row i{width:19px;height:19px;border-radius:50%;border:1px solid #b6c8f0;display:grid;place-items:center;font-size:9px;font-style:normal}.mock-row.active{border-color:#9ab5ff;background:#91afff20}.mock-row.active i{background:#d8e3ff;color:#214489}.visual-bottom{display:flex;justify-content:space-between;font-size:9px;color:#c2d2ff;margin-top:22px}.visual-bottom span:last-child{color:#ffdb84}.section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;margin:25px 0 18px}.section-head h2{font-size:22px;letter-spacing:-.6px;margin:5px 0}.section-head p{font-size:12px;color:var(--muted);margin:0}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:17px}.card{display:block;padding:24px;background:var(--card);border:1px solid var(--line);border-radius:17px;color:var(--ink);text-decoration:none;transition:transform .15s,border-color .15s}.card:hover{transform:translateY(-3px);border-color:var(--blue)}.card-top{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:21px}.tag{font-size:10px;font-weight:800;letter-spacing:.5px;background:var(--blue-soft);color:var(--blue);padding:5px 10px;border-radius:30px}.arrow{color:var(--muted);font-size:20px}.card h3{font-size:23px;line-height:1.3;letter-spacing:-.5px;margin:0 0 10px}.card p{font-size:13px;color:var(--muted);margin:0;max-width:540px}.facts{display:flex;gap:22px;flex-wrap:wrap;margin-top:22px;padding-top:17px;border-top:1px solid var(--line);font-size:10px;color:var(--muted)}.facts b{display:block;font-size:17px;color:var(--ink)}.featured{background:linear-gradient(125deg,var(--card),var(--blue-soft));border-color:#6989e9}.boss .tag{background:#7652ce;color:white}.lab-note{margin:23px 0 0;padding:19px 22px;border:1px solid var(--line);border-radius:13px;background:var(--card);font-size:12px;color:var(--muted)}.lab-note strong{color:var(--ink)}.footer{display:flex;gap:15px;justify-content:space-between;flex-wrap:wrap;border-top:1px solid var(--line);margin-top:35px;padding-top:19px;font-size:11px;color:var(--muted)}.footer a{text-decoration:none}.offline-dot{display:inline-block;width:7px;height:7px;background:#50bb8f;border-radius:50%;margin-right:6px}.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}
+@media(max-width:850px){.hero{grid-template-columns:1fr;gap:20px}.visual{max-width:570px}.hero h1{max-width:600px}.hero{margin-bottom:30px}}
+@media(max-width:640px){.top-inner{padding:13px 16px}.brand b{font-size:14px}.brand small{letter-spacing:1.2px;font-size:7px}.mark{width:34px;height:34px}.actions a{display:none}.actions button{font-size:11px;padding:8px 10px}main{padding:30px 16px 42px}h1{font-size:43px;letter-spacing:-1.8px}.lead{font-size:15px}.visual{padding:23px}.grid{grid-template-columns:1fr}.card{padding:22px}.section-head{align-items:flex-start;flex-direction:column;gap:2px}.card h3{font-size:22px}.facts{gap:21px}.hero-links .btn{font-size:12px}.visual h2{font-size:23px}.footer{gap:9px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
+<header class="top"><div class="top-inner"><a class="brand" href="index.html"><span class="mark" aria-hidden="true">TS</span><span><b>Ts Sick Boii</b><small>Independent learning / CBT</small></span></a><div class="actions"><a href="https://github.com/Rxuser2/tka-bi-smp-2026">Unduh offline</a><button id="theme-toggle" aria-pressed="false">Mode malam</button></div></div></header>
 <main>
-  <span class="eyebrow">Simulasi TKA 2026 · Bahasa Indonesia SMP</span>
-  <h1>Pilih paket latihan</h1>
-  <p class="lead">Tiga paket soal orisinal dengan bacaan bergambar, pembahasan, dan mode malam. Semua dapat dibuka dari ponsel maupun komputer, tanpa aplikasi tambahan.</p>
-  <div class="grid">
-    <a class="card featured" href="Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html">
-      <span class="tag">Final Boss</span>
-      <h2>Tantangan terakhir — foto nyata, jebakan halus</h2>
-      <p>30 soal dengan pilihan jawaban yang dibuat seimbang, banyak jebakan inferensial, dan 10 foto dari Wikimedia Commons. Kunci tidak bisa ditebak dari panjang atau bentuk pilihan.</p>
-      <div class="facts"><span><b>30</b>soal</span><span><b>75</b>menit</span><span><b>10</b>foto</span><span><b>9</b>sulit</span></div>
-    </a>
-    <a class="card" href="Simulasi_Interaktif_TKA_BI_SMP_2026.html">
-      <span class="tag">Paket 1</span>
-      <h2>Simulasi Interaktif</h2>
-      <p>30 soal, 10 bacaan bergambar, pembahasan lengkap. Cocok untuk latihan pertama.</p>
-      <div class="facts"><span><b>30</b>soal</span><span><b>75</b>menit</span><span><b>10</b>gambar</span></div>
-    </a>
-    <a class="card" href="Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html">
-      <span class="tag">Paket 2</span>
-      <h2>Simulasi Interaktif</h2>
-      <p>30 soal baru dengan tema berbeda, 10 gambar baru, pembahasan dan estimasi kesulitan.</p>
-      <div class="facts"><span><b>30</b>soal</span><span><b>75</b>menit</span><span><b>10</b>gambar</span></div>
-    </a>
-  </div>
-  <div class="note">
-    <strong>Cara membuka:</strong> pilih paket di atas. Jawaban tersimpan otomatis di browser dan tema terang/gelap tersimpan untuk kunjungan berikutnya. Untuk penggunaan luring di kelas, unduh seluruh berkas HTML dari repositori ini lalu buka langsung tanpa internet.
-  </div>
+<section class="hero"><div><span class="eyebrow">TKA practice lab / 2026</span><h1>Latihan serius.<br><span>Tampilan beda.</span></h1><p class="lead">Pilih arena, baca teliti, dan uji pemahamanmu. Bahasa Indonesia dengan bacaan bergambar, ditambah Matematika yang disalin dan dianalisis dari screenshotmu.</p><div class="hero-links"><a class="btn primary" href="Ts_Sick_Boii_Matematika.html">Buka Matematika →</a><a class="btn" href="analisis-soal-ts-sick-boii.html">Lihat audit soal</a></div></div><div class="visual" aria-hidden="true"><span class="visual-label">Your next session</span><h2>Tenang. Baca ulang.<br>Pilih dengan alasan.</h2><div class="mock-row"><i>A</i>Petunjuk dari teks, bukan tebakan</div><div class="mock-row active"><i>B</i>Jawaban yang didukung bukti</div><div class="mock-row"><i>C</i>Periksa pilihan yang mengecoh</div><div class="visual-bottom"><span>TS / PRACTICE ROOM</span><span>READY WHEN YOU ARE</span></div></div></section>
+<div class="section-head"><div><span class="eyebrow">Pilih paket</span><h2>Empat arena latihan</h2></div><p>Autosave · Pembahasan · Mode malam · Ponsel & desktop</p></div>
+<div class="grid">
+  <a class="card featured" href="Ts_Sick_Boii_Matematika.html"><div class="card-top"><span class="tag">Baru / Matematika</span><span class="arrow">↗</span></div><h3>Salinan Screenshot</h3><p>Semua 22 nomor sumber terdokumentasi. 18 nomor dapat dinilai; bagian yang belum lengkap dan penempatan yang belum pasti ditandai terbuka.</p><div class="facts"><span><b>22</b>nomor sumber</span><span><b>18</b>dinilai</span><span><b>30</b>menit latihan</span><span><b>35</b>screenshot</span></div></a>
+  <a class="card boss" href="Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html"><div class="card-top"><span class="tag">Bahasa Indonesia / Final Boss</span><span class="arrow">↗</span></div><h3>Final Boss</h3><p>Bacaan dengan foto nyata, pilihan seimbang, dan jebakan inferensi. Semua soal dan kredit foto paket sebelumnya tetap utuh.</p><div class="facts"><span><b>30</b>soal</span><span><b>75</b>menit</span><span><b>10</b>foto</span></div></a>
+  <a class="card" href="Simulasi_Interaktif_TKA_BI_SMP_2026.html"><div class="card-top"><span class="tag">Bahasa Indonesia / Paket 1</span><span class="arrow">↗</span></div><h3>Bangun Fondasi</h3><p>Latihan pertama dengan cerita, teks informasi, puisi, dan ilustrasi. Kunci serta pembahasan tersedia setelah sesi selesai.</p><div class="facts"><span><b>30</b>soal</span><span><b>75</b>menit</span><span><b>10</b>bacaan bergambar</span></div></a>
+  <a class="card" href="Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html"><div class="card-top"><span class="tag">Bahasa Indonesia / Paket 2</span><span class="arrow">↗</span></div><h3>Lanjutkan Ritme</h3><p>30 soal berbeda untuk memperluas latihan membaca. Isi, gambar, dan kunci paket sebelumnya dipertahankan.</p><div class="facts"><span><b>30</b>soal</span><span><b>75</b>menit</span><span><b>10</b>bacaan bergambar</span></div></a>
+</div>
+<div class="lab-note"><strong>Catatan sumber Matematika:</strong> nomor 1, 15, dan 20 belum menampilkan pertanyaan/pilihan lengkap. Screenshot pilihan setelah nomor 21 tidak menampilkan nomor; penempatannya sementara dan tidak ikut skor. Tabel nomor 22 diperbaiki dari tiga placeholder menjadi empat pernyataan asli. Kunci adalah analisis editorial, bukan kunci resmi. <a href="analisis-soal-ts-sick-boii.html">Baca audit lengkap</a>.</div>
+<footer class="footer"><span><i class="offline-dot"></i>Jawaban disimpan di perangkatmu. Tidak dikirim ke server.</span><span>Ts Sick Boii · Simulasi mandiri, bukan situs TKA resmi.</span></footer>
 </main>
-</body>
-</html>
+<script>
+(() => {const key='tka-bi-smp-2026-theme',button=document.getElementById('theme-toggle'),system=matchMedia('(prefers-color-scheme:dark)');function stored(){try{return localStorage.getItem(key);}catch{return null;}}function apply(theme){const dark=theme==='dark';document.documentElement.dataset.theme=dark?'dark':'light';button.textContent=dark?'Mode siang':'Mode malam';button.setAttribute('aria-pressed',String(dark));}const saved=stored();apply(['light','dark'].includes(saved)?saved:system.matches?'dark':'light');button.addEventListener('click',()=>{const theme=document.documentElement.dataset.theme==='dark'?'light':'dark';apply(theme);try{localStorage.setItem(key,theme);}catch{}});system.addEventListener('change',e=>{if(!stored())apply(e.matches?'dark':'light');});addEventListener('storage',e=>{if(e.key===key&&['light','dark'].includes(e.newValue))apply(e.newValue);});})();
+</script>
+</body></html>

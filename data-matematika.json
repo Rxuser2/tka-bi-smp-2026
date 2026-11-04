@@ -1,0 +1,765 @@
+{
+  "id": "ts-sick-boii-matematika",
+  "title": "Matematika · Salinan Screenshot",
+  "subject": "Matematika",
+  "minutes": 30,
+  "durationNote": "30 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi yang terbukti dari screenshot.",
+  "sourceNote": "Sumber yang tertulis pada screenshot: Disadur dari Kemendikbudristek, Buku Teks Pelajaran Tes Kemampuan Akademik (TKA) Kelas TKA SMP/MTs (Perkaban No. 047/H/AN/2025). Atribusi ini disalin dari screenshot; asal naskah dan distribusi bobotnya belum diverifikasi secara independen.",
+  "stimuli": [
+    {
+      "id": "M1",
+      "title": "Analisis Distribusi Materi TKA SMP",
+      "range": "1–5",
+      "complete": true,
+      "paragraphs": [
+        "Matematika merupakan fondasi utama dalam Tes Kemampuan Akademik. Materi diuji mencakup empat elemen utama kompetensi. Elemen bilangan mencakup 20% dari total soal. Elemen aljabar mencakup 35% dari total soal. Elemen geometri mencakup 25% dari total soal. Elemen data mencakup 20% dari total soal. Siswa harus memahami seluruh materi tersebut. Persiapan matang membantu peserta didik meraih keberhasilan. Strategi belajar efektif sangat dibutuhkan untuk mencapai target. Pemahaman konsep lebih penting daripada menghafal rumus. Kemampuan berpikir kritis menjadi kunci utama saat ujian."
+      ],
+      "chart": [
+        [
+          "Bilangan",
+          20,
+          "bilangan real"
+        ],
+        [
+          "Aljabar",
+          35,
+          "aljabar dan fungsi"
+        ],
+        [
+          "Geometri",
+          25,
+          "ruang dan bentuk"
+        ],
+        [
+          "Data",
+          20,
+          "statistik dan peluang"
+        ]
+      ],
+      "note": "Persentase cakupan materi dalam asesmen matematika TKA SMP.",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174828.png",
+        "Cuplikan layar 2026-11-04 174835.png"
+      ]
+    },
+    {
+      "id": "M2",
+      "title": "Bobot Elemen Materi",
+      "range": "6–10",
+      "complete": false,
+      "paragraphs": [
+        "elemen data dan peluang melatih siswa menafsirkan informasi statistik secara kritis. Keempat elemen ini membangun fondasi berpikir logis dan sistematis peserta didik. Integrasi antar elemen sangat diperlukan untuk memecahkan masalah kompleks secara efektif."
+      ],
+      "chart": [
+        [
+          "Bilangan",
+          22.5,
+          "bilangan real"
+        ],
+        [
+          "Aljabar",
+          32.5,
+          "bentuk aljabar"
+        ],
+        [
+          "Geometri",
+          27.5,
+          "geometri dan pengukuran"
+        ]
+      ],
+      "note": "Awal stimulus tidak terlihat. Data elemen Data dan Peluang tidak tercantum dalam infografis sumber. Sisa 17,5% dapat diturunkan hanya jika empat elemen mencakup tepat 100%.",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174928.png"
+      ]
+    },
+    {
+      "id": "M3",
+      "title": "Integrasi Matematika dalam Kehidupan",
+      "range": "11–14",
+      "complete": false,
+      "paragraphs": [
+        "Penerapan matematika sangat penting bagi kehidupan masyarakat modern saat ini. Siswa perlu memahami konsep bilangan hingga aljabar secara sangat mendalam. Penggunaan variabel dalam aljabar memudahkan kita memodelkan biaya layanan digital. Misalnya, biaya langganan aplikasi bulanan dapat dinyatakan dalam persamaan linear. Variabel tersebut membantu kita menghitung total pengeluaran secara cepat dan akurat. Selain aljabar, geometri juga memegang peranan krusial dalam perancangan struktur bangunan bersejarah. Kawasan Trowulan memiliki banyak candi dengan geometri yang sangat presisi dan unik."
+      ],
+      "chart": [],
+      "note": "Bagian akhir stimulus setelah kalimat tentang pengukuran luas dan volume terpotong. Soal 11–14 dapat dianalisis dari pertanyaan yang tersedia.",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175007.png"
+      ]
+    },
+    {
+      "id": "M4",
+      "title": "Distribusi Elemen Materi TKA",
+      "range": "15–19",
+      "complete": true,
+      "paragraphs": [
+        "Matematika dalam Tes Kemampuan Akademik (TKA) SMP merupakan kemampuan memahami konsep, menggunakan prosedur matematika, serta menerapkan penalaran untuk menyelesaikan berbagai permasalahan dalam kehidupan sehari-hari. Materi yang diujikan mencakup empat elemen utama, yaitu bilangan, aljabar, geometri dan pengukuran, serta data dan peluang. Keempat elemen tersebut saling berkaitan dan menjadi dasar dalam mengembangkan kemampuan berpikir logis, kritis, sistematis, serta kemampuan memecahkan masalah.",
+        "Oleh karena itu, pembelajaran Matematika dalam persiapan TKA tidak hanya berfokus pada penguasaan rumus dan prosedur perhitungan, tetapi juga pada pemahaman konsep, ketepatan memilih strategi penyelesaian, kemampuan menafsirkan informasi, serta penerapan matematika dalam konteks kehidupan nyata, termasuk teknologi, pendidikan, prestasi olahraga, dan pelestarian budaya Majapahit."
+      ],
+      "chart": [
+        [
+          "Bilangan",
+          22.5,
+          "bilangan real dan operasi aritmetika"
+        ],
+        [
+          "Aljabar",
+          32.5,
+          "persamaan, pertidaksamaan, dan pola bilangan"
+        ],
+        [
+          "Geometri",
+          27.5,
+          "bangun ruang, transformasi, dan kesebangunan"
+        ],
+        [
+          "Data & Peluang",
+          17.5,
+          "statistik dan interpretasi data"
+        ]
+      ],
+      "note": "Analisis pembagian bobot materi berdasarkan kurikulum nasional.",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175114.png",
+        "Cuplikan layar 2026-11-04 175125.png",
+        "Cuplikan layar 2026-11-04 175130.png"
+      ]
+    },
+    {
+      "id": "M5",
+      "title": "Penerapan Matematika dalam Sektor Strategis",
+      "range": "20",
+      "complete": true,
+      "paragraphs": [
+        "Matematika merupakan instrumen penting bagi pelestarian situs bersejarah di kawasan Trowulan. Para ahli arkeologi menggunakan prinsip geometri untuk merekonstruksi bentuk asli candi. Pengukuran dimensi bangunan dilakukan dengan presisi tinggi melalui penggunaan Teorema Pythagoras. Data spasial ini membantu peneliti menentukan volume material yang dibutuhkan secara tepat. Hal tersebut memastikan struktur bangunan tetap kokoh serta terjaga keasliannya.",
+        "Selain pelestarian, matematika berperan krusial dalam pengembangan teknologi pendidikan masa kini. Model aljabar membantu pengembang aplikasi memetakan pola peningkatan hasil belajar peserta didik. Persamaan linear digunakan untuk memodelkan biaya layanan digital agar lebih efisien. Analisis data statistik memungkinkan evaluasi efektivitas metode pembelajaran secara berkala. Integrasi konsep bilangan dan aljabar menciptakan solusi inovatif bagi tantangan pendidikan. Pemahaman mendalam atas keempat elemen tersebut melatih logika berpikir sistematis siswa."
+      ],
+      "chart": [
+        [
+          "Aljabar",
+          35,
+          "pemodelan biaya dan tren data"
+        ],
+        [
+          "Geometri & Pengukuran",
+          30,
+          "rekonstruksi bangunan bersejarah"
+        ],
+        [
+          "Bilangan & Data",
+          35,
+          "perhitungan estimasi dan analisis statistik"
+        ]
+      ],
+      "note": "Penerapan konsep matematika mencakup empat pilar utama dalam kehidupan nyata. Bilangan dan Data digabung dalam satu kelompok pada infografis ini.",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175203.png",
+        "Cuplikan layar 2026-11-04 175215.png",
+        "Cuplikan layar 2026-11-04 175221.png"
+      ]
+    },
+    {
+      "id": "M6",
+      "title": "Distribusi Elemen Matematika TKA",
+      "range": "21–22",
+      "complete": true,
+      "paragraphs": [
+        "Matematika dalam Tes Kemampuan Akademik (TKA) SMP merupakan kemampuan memahami konsep, menggunakan prosedur matematika, serta menerapkan penalaran untuk menyelesaikan berbagai permasalahan dalam kehidupan sehari-hari. Materi yang diujikan mencakup empat elemen utama, yaitu bilangan, aljabar, geometri dan pengukuran, serta data dan peluang.",
+        "Elemen bilangan memiliki cakupan sekitar 20–25% dan berkaitan dengan pemahaman bilangan real meliputi bilangan bulat, pecahan, dan desimal, serta kemampuan melakukan operasi aritmetika, memahami rasio dan perbandingan, menggunakan bilangan berpangkat dan bentuk akar, serta melakukan estimasi atau perkiraan hasil perhitungan. Elemen aljabar memiliki cakupan 30–35% dan mencakup pemahaman bentuk aljabar, persamaan linear, fungsi, dan barisan bilangan. Elemen geometri mencakup 25–30% meliputi transformasi, Pythagoras, dan volume. Sementara, elemen data dan peluang mencakup 15–20% yang berkaitan dengan analisis tabel, mean, median, modus, serta peluang kejadian.",
+        "Keempat elemen tersebut saling berkaitan dan menjadi dasar dalam mengembangkan kemampuan berpikir logis, kritis, sistematis, serta kemampuan memecahkan masalah. Oleh karena itu, pembelajaran Matematika dalam persiapan TKA tidak hanya berfokus pada penguasaan rumus, tetapi juga pada pemahaman konsep, strategi penyelesaian, kemampuan menafsirkan informasi, serta penerapan matematika dalam konteks kehidupan nyata, termasuk teknologi, pendidikan, prestasi olahraga, dan pelestarian budaya Majapahit."
+      ],
+      "chart": [
+        [
+          "Bilangan",
+          22.5,
+          "aritmetika dan estimasi real"
+        ],
+        [
+          "Aljabar",
+          32.5,
+          "fungsi dan barisan bilangan"
+        ],
+        [
+          "Geometri",
+          27.5,
+          "transformasi dan bangunan"
+        ],
+        [
+          "Data & Peluang",
+          17.5,
+          "statistik dan probabilitas"
+        ]
+      ],
+      "note": "Komposisi bobot materi berdasarkan elemen utama dalam asesmen nasional. Judul sumber menyebut soal 21–25, tetapi antarmuka hanya menyediakan 22 nomor; soal 23–25 tidak tersedia.",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175238.png",
+        "Cuplikan layar 2026-11-04 175247.png",
+        "Cuplikan layar 2026-11-04 175255.png",
+        "Cuplikan layar 2026-11-04 175300.png"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "n": 1,
+      "stimulus": "M1",
+      "stem": null,
+      "options": [
+        "Pilihan Jawaban A",
+        "Pilihan Jawaban B",
+        "Pilihan Jawaban C",
+        "Pilihan Jawaban D"
+      ],
+      "key": null,
+      "explanation": "Pertanyaan tidak terlihat dan pilihan pada screenshot masih berupa placeholder. Nomor ini tidak dinilai.",
+      "form": "PG",
+      "topic": "Penalaran",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174828.png",
+        "Cuplikan layar 2026-11-04 174835.png",
+        "Cuplikan layar 2026-11-04 174840.png"
+      ],
+      "status": "missing",
+      "issue": "Stem soal tidak tersedia; pilihan A–D merupakan placeholder dari sumber.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": false,
+      "graded": false
+    },
+    {
+      "n": 2,
+      "stimulus": "M1",
+      "stem": "Berdasarkan data distribusi materi di atas, jika terdapat 100 butir soal, maka rata-rata jumlah soal per elemen adalah …",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "key": "B",
+      "explanation": "Ada empat elemen. Rata-rata jumlah soal = 100 ÷ 4 = 25, walaupun distribusi masing-masing elemen berbeda.",
+      "form": "PG",
+      "topic": "Statistika",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174851.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 3,
+      "stimulus": "M1",
+      "stem": "Selisih persentase cakupan antara elemen dengan porsi terbesar dan terkecil adalah …",
+      "options": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "key": "C",
+      "explanation": "Porsi terbesar ialah Aljabar 35%, terkecil Bilangan dan Data masing-masing 20%. Selisihnya 15 poin persentase. Opsi sumber menulis 15%, bukan istilah yang lebih presisi itu.",
+      "form": "PG",
+      "topic": "Persentase",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174857.png"
+      ],
+      "status": "complete",
+      "issue": "Satuan selisih semestinya poin persentase; opsi sumber dipertahankan.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 4,
+      "stimulus": "M1",
+      "stem": "Jika waktu total persiapan adalah 100 jam, maka alokasi waktu untuk elemen aljabar adalah …",
+      "options": [
+        "20 jam",
+        "25 jam",
+        "30 jam",
+        "35 jam"
+      ],
+      "key": "D",
+      "explanation": "Dengan asumsi waktu dibagi sebanding bobot materi, 35% × 100 jam = 35 jam.",
+      "form": "PG",
+      "topic": "Persentase",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174903.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 5,
+      "stimulus": "M1",
+      "stem": "Penerapan geometri pada bangunan bersejarah, seperti candi Trowulan, paling tepat dianalisis melalui konsep …",
+      "options": [
+        "Aljabar",
+        "Bilangan real",
+        "Transformasi geometri",
+        "Peluang kejadian"
+      ],
+      "key": "C",
+      "explanation": "Transformasi geometri dapat menganalisis perubahan, pengulangan, dan simetri bentuk bangunan. Tiga pilihan lain bukan konsep geometri yang diminta.",
+      "form": "PG",
+      "topic": "Geometri",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174908.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 6,
+      "stimulus": "M2",
+      "stem": "Jika biaya pengembangan soal per satu persen cakupan adalah Rp1.000.000,00, maka total biaya untuk elemen bilangan dan data adalah …",
+      "options": [
+        "Rp20.000.000,00",
+        "Rp30.000.000,00",
+        "Rp40.000.000,00",
+        "Rp50.000.000,00"
+      ],
+      "key": "C",
+      "explanation": "Jika empat elemen meliputi 100%, Data = 100 − 22,5 − 32,5 − 27,5 = 17,5%. Bilangan + Data = 40%, sehingga biaya 40 × Rp1.000.000 = Rp40.000.000. Kunci ini bergantung pada asumsi total 100% karena Data tidak ditampilkan.",
+      "form": "PG",
+      "topic": "Persentase",
+      "level": "Sedang",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174928.png",
+        "Cuplikan layar 2026-11-04 174934.png"
+      ],
+      "status": "complete",
+      "issue": "Infografis sumber tidak mencantumkan Data; jawaban diturunkan dengan asumsi total empat elemen = 100%.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 7,
+      "stimulus": "M2",
+      "stem": "Berdasarkan infografis dan teks tersebut, jika total soal berjumlah 40 butir, maka jumlah soal elemen aljabar adalah …",
+      "options": [
+        "8 butir",
+        "11 butir",
+        "13 butir",
+        "15 butir"
+      ],
+      "key": "C",
+      "explanation": "Bobot Aljabar pada stimulus ini 32,5%. 0,325 × 40 = 13 butir; jangan memakai bobot 35% dari stimulus sebelumnya.",
+      "form": "PG",
+      "topic": "Persentase",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174940.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 8,
+      "stimulus": "M2",
+      "stem": "Penerapan konsep geometri dalam pengamatan struktur bangunan bersejarah di Trowulan mencakup pemahaman tentang …",
+      "options": [
+        "Mean dan median data",
+        "Pola barisan bilangan",
+        "Refleksi dan dilatasi bangun",
+        "Operasi aritmetika bilangan bulat"
+      ],
+      "key": "C",
+      "explanation": "Refleksi dan dilatasi merupakan transformasi geometri. Mean/median termasuk statistika, barisan termasuk aljabar, dan aritmetika termasuk bilangan.",
+      "form": "PG",
+      "topic": "Geometri",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174946.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 9,
+      "stimulus": "M2",
+      "stem": "Berdasarkan distribusi cakupan materi, elemen yang memiliki proporsi terkecil adalah …",
+      "options": [
+        "Bilangan",
+        "Aljabar",
+        "Geometri",
+        "Data dan Peluang"
+      ],
+      "key": "D",
+      "explanation": "Dengan asumsi empat elemen total 100%, Data dan Peluang = 17,5%, lebih kecil daripada 22,5%, 32,5%, dan 27,5%. Tanpa asumsi tersebut, infografis sumber belum cukup lengkap.",
+      "form": "PG",
+      "topic": "Interpretasi data",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174951.png"
+      ],
+      "status": "complete",
+      "issue": "Proporsi Data dan Peluang tidak tertulis di stimulus ini; membutuhkan asumsi total 100%.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 10,
+      "stimulus": "M2",
+      "stem": "Pernyataan yang paling tepat mengenai keterkaitan antarelemen dalam TKA adalah …",
+      "options": [
+        "Aljabar tidak membutuhkan data",
+        "Geometri berdiri sendiri tanpa aljabar",
+        "Keempat elemen saling mendukung pemecahan masalah",
+        "Bilangan hanya digunakan untuk menghitung biaya"
+      ],
+      "key": "C",
+      "explanation": "Stimulus menyebut integrasi antarelemen diperlukan untuk memecahkan masalah kompleks. Opsi lain membuat pembatasan yang tidak didukung teks.",
+      "form": "PG",
+      "topic": "Penalaran",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 174957.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 11,
+      "stimulus": "M3",
+      "stem": "Kemampuan estimasi hasil perhitungan yang termasuk dalam elemen bilangan sangat berguna untuk kegiatan berikut, yaitu …",
+      "options": [
+        "Menentukan pola peningkatan hasil belajar",
+        "Menghitung kebutuhan bahan dalam kegiatan",
+        "Menganalisis statistik prestasi olahraga",
+        "Mengukur sudut bangunan bersejarah"
+      ],
+      "key": "B",
+      "explanation": "Estimasi kebutuhan bahan menggunakan perkiraan besaran dan operasi bilangan. Opsi lain lebih langsung mewakili aljabar, statistika, dan geometri.",
+      "form": "PG",
+      "topic": "Bilangan",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175007.png",
+        "Cuplikan layar 2026-11-04 175028.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 12,
+      "stimulus": "M3",
+      "stem": "Jika biaya langganan dasar aplikasi adalah Rp20.000 dan biaya tambahan per GB adalah Rp5.000, maka model aljabar untuk total biaya (y) dengan penggunaan (x) GB adalah …",
+      "options": [
+        "y = 20.000 + 5.000x",
+        "y = 5.000 + 20.000x",
+        "y = 25.000x",
+        "y = 15.000x"
+      ],
+      "key": "A",
+      "explanation": "Total biaya adalah biaya tetap ditambah biaya variabel: y = 20.000 + 5.000x. Saat x = 0, biaya tetap masih Rp20.000.",
+      "form": "PG",
+      "topic": "Aljabar",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175043.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 13,
+      "stimulus": "M3",
+      "stem": "Pernyataan yang paling tepat mengenai hubungan geometri dengan pelestarian bangunan di Trowulan adalah …",
+      "options": [
+        "Geometri digunakan untuk menghitung jumlah pengunjung candi",
+        "Geometri membantu menentukan volume struktur candi agar akurat",
+        "Geometri berfungsi merancang jadwal pemugaran candi secara tepat",
+        "Geometri digunakan memprediksi biaya perawatan situs candi"
+      ],
+      "key": "B",
+      "explanation": "Volume bangun ruang adalah cakupan langsung geometri. Jumlah pengunjung, jadwal, dan biaya bukan aplikasi geometri yang paling langsung di antara opsi.",
+      "form": "PG",
+      "topic": "Geometri",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175054.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 14,
+      "stimulus": "M3",
+      "stem": "Jika data prestasi olahraga menunjukkan skor: 7, 8, 9, 7, 9, maka nilai rata-rata (mean) prestasi tersebut adalah …",
+      "options": [
+        "7,5",
+        "7,8",
+        "8,0",
+        "8,2"
+      ],
+      "key": "C",
+      "explanation": "Jumlah skor = 7 + 8 + 9 + 7 + 9 = 40. Mean = 40 ÷ 5 = 8,0.",
+      "form": "PG",
+      "topic": "Statistika",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175104.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 15,
+      "stimulus": "M4",
+      "stem": "Berdasarkan wacana, alasan utama pembelajaran matematika tidak hanya",
+      "options": [],
+      "key": null,
+      "explanation": "Hanya awal pertanyaan yang terlihat. Kelanjutan dan semua pilihan tidak ada dalam screenshot; nomor ini tidak dinilai.",
+      "form": "PG",
+      "topic": "Penalaran",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175114.png",
+        "Cuplikan layar 2026-11-04 175125.png",
+        "Cuplikan layar 2026-11-04 175130.png"
+      ],
+      "status": "partial",
+      "issue": "Pertanyaan terpotong setelah kata 'hanya'; pilihan jawaban tidak tersedia.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": false,
+      "graded": false
+    },
+    {
+      "n": 16,
+      "stimulus": "M4",
+      "stem": "Berdasarkan data infografis di atas, elemen materi yang memiliki proporsi cakupan tertinggi dan terendah adalah …",
+      "options": [
+        "Aljabar sebagai elemen dengan cakupan tertinggi",
+        "Data dan Peluang sebagai elemen dengan cakupan terendah",
+        "Geometri memiliki cakupan lebih tinggi dari Aljabar",
+        "Bilangan memiliki cakupan lebih rendah dari Data dan Peluang"
+      ],
+      "key": [
+        "A",
+        "B"
+      ],
+      "explanation": "Aljabar 32,5% paling tinggi dan Data/Peluang 17,5% paling rendah. Geometri 27,5% < Aljabar, sedangkan Bilangan 22,5% > Data/Peluang.",
+      "form": "PGK MCMA",
+      "topic": "Interpretasi data",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175141.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 17,
+      "stimulus": "M4",
+      "stem": "Implikasi logis dari pembagian bobot materi TKA terhadap strategi persiapan peserta didik adalah …",
+      "options": [
+        "Memprioritaskan pemahaman aljabar sebagai materi dominan",
+        "Mengabaikan materi data karena persentasenya paling kecil",
+        "Mengintegrasikan pemahaman geometri dengan konteks sejarah",
+        "Fokus hanya pada satu elemen agar penguasaan maksimal"
+      ],
+      "key": [
+        "A",
+        "C"
+      ],
+      "explanation": "Aljabar layak mendapat prioritas karena bobot terbesar, dan integrasi geometri/konteks sejarah sesuai teks. Prioritas bukan berarti mengabaikan elemen lain atau belajar satu elemen saja.",
+      "form": "PGK MCMA",
+      "topic": "Penalaran",
+      "level": "Sedang",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175147.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 18,
+      "stimulus": "M4",
+      "stem": "Penerapan konsep geometri dalam pelestarian budaya Majapahit yang relevan dengan materi TKA adalah …",
+      "options": [
+        "Menghitung luas permukaan candi menggunakan rumus geometri",
+        "Menganalisis pola transformasi pada relief candi",
+        "Menentukan jumlah pengunjung candi dengan statistik",
+        "Menggunakan aljabar untuk memprediksi usia candi"
+      ],
+      "key": [
+        "A",
+        "B"
+      ],
+      "explanation": "Luas permukaan dan transformasi adalah geometri. Jumlah pengunjung dengan statistik termasuk Data; prediksi usia menggunakan aljabar bukan contoh geometri.",
+      "form": "PGK MCMA",
+      "topic": "Geometri",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175152.png"
+      ],
+      "status": "complete",
+      "issue": "",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 19,
+      "stimulus": "M4",
+      "stem": "Pemanfaatan elemen aljabar dalam konteks teknologi masa kini mencakup hal-hal berikut …",
+      "options": [
+        "Memodelkan biaya langganan layanan digital",
+        "Menghitung pertumbuhan jumlah pengguna aplikasi",
+        "Mengukur suhu ruang server komputer",
+        "Menentukan mean hasil asesmen digital"
+      ],
+      "key": [
+        "A",
+        "B"
+      ],
+      "explanation": "Biaya langganan dapat dimodelkan dengan persamaan, dan pertumbuhan pengguna dengan fungsi atau pola. B dianggap benar jika pertumbuhan dimodelkan, bukan sekadar menghitung jumlah. Mengukur suhu adalah pengukuran; mean termasuk statistika.",
+      "form": "PGK MCMA",
+      "topic": "Aljabar",
+      "level": "Sedang",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175156.png"
+      ],
+      "status": "complete",
+      "issue": "Opsi B cukup luas; kunci editorial mengasumsikan pemodelan pertumbuhan, bukan sekadar pencacahan.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true
+    },
+    {
+      "n": 20,
+      "stimulus": "M5",
+      "stem": null,
+      "options": [],
+      "key": null,
+      "explanation": "Stimulus lengkap terlihat, tetapi pertanyaan dan pilihan nomor 20 tidak terekam. Nomor ini tidak dinilai.",
+      "form": "PG",
+      "topic": "Penalaran",
+      "level": "Mudah",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175203.png",
+        "Cuplikan layar 2026-11-04 175215.png",
+        "Cuplikan layar 2026-11-04 175221.png"
+      ],
+      "status": "missing",
+      "issue": "Hanya stimulus nomor 20 yang tersedia.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": false,
+      "graded": false
+    },
+    {
+      "n": 21,
+      "stimulus": "M6",
+      "stem": "Berdasarkan teks wacana dan data infografis di atas, pernyataan yang menunjukkan penerapan konsep matematika dalam konteks kehidupan nyata adalah …",
+      "options": [
+        "Penggunaan Teorema Pythagoras dalam rekonstruksi bangunan candi di Trowulan.",
+        "Pemanfaatan persamaan linear untuk memodelkan efisiensi biaya layanan digital.",
+        "Penerapan statistik untuk mengevaluasi data hasil belajar peserta didik secara berkala.",
+        "Penggunaan rotasi dan dilatasi untuk menentukan jumlah pengunjung situs sejarah."
+      ],
+      "key": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, dan C sesuai penerapan geometri, aljabar, dan statistika pada konteks kehidupan nyata. Rotasi/dilatasi tidak langsung menentukan jumlah pengunjung. Screenshot pilihan tidak menampilkan nomor; urutan berkas menempatkannya setelah stimulus 21 dan sebelum 22, sehingga penempatan 21 perlu konfirmasi.",
+      "form": "PGK MCMA",
+      "topic": "Penalaran",
+      "level": "Sedang",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175238.png",
+        "Cuplikan layar 2026-11-04 175247.png",
+        "Cuplikan layar 2026-11-04 175255.png",
+        "Cuplikan layar 2026-11-04 175300.png",
+        "Cuplikan layar 2026-11-04 175307.png"
+      ],
+      "status": "unconfirmed",
+      "issue": "Screenshot pertanyaan tidak menampilkan nomor. Dikaitkan sementara ke 21 menurut urutan berkas; teksnya juga cocok dengan stimulus 20. Tidak dimasukkan dalam skor sampai dikonfirmasi.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": false
+    },
+    {
+      "n": 22,
+      "stimulus": "M6",
+      "stem": "Berdasarkan wacana dan infografis di atas, tentukan kebenaran setiap pernyataan berikut dengan memberi tanda centang (✓) pada kolom Benar atau Salah!",
+      "options": [
+        "Cakupan materi elemen bilangan dalam TKA memiliki bobot lebih besar daripada elemen data dan peluang.",
+        "Elemen aljabar memiliki porsi terkecil dalam distribusi materi matematika TKA SMP.",
+        "Elemen geometri dan pengukuran berperan dalam analisis bentuk bangunan bersejarah seperti candi di Trowulan.",
+        "Kemampuan mengolah mean, median, dan modus termasuk dalam cakupan elemen aljabar."
+      ],
+      "key": [
+        "Benar",
+        "Salah",
+        "Benar",
+        "Salah"
+      ],
+      "explanation": "A: Bilangan 22,5% > Data/Peluang 17,5%. B: Aljabar 32,5% adalah porsi terbesar, bukan terkecil. C: analisis bentuk bangunan termasuk geometri. D: mean, median, dan modus termasuk Data/Statistika. Tabel diperbaiki menjadi empat baris sesuai empat pernyataan di teks, bukan tiga placeholder pada sumber.",
+      "form": "PGK Kategori",
+      "topic": "Interpretasi data",
+      "level": "Sedang",
+      "sources": [
+        "Cuplikan layar 2026-11-04 175317.png",
+        "Cuplikan layar 2026-11-04 175322.png"
+      ],
+      "status": "repaired",
+      "issue": "Sumber memiliki empat pernyataan tetapi tabel hanya tiga baris placeholder; UI memakai empat pernyataan yang sesungguhnya.",
+      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "answerable": true,
+      "graded": true,
+      "labels": [
+        "Benar",
+        "Salah"
+      ]
+    }
+  ],
+  "analysis": "analisis-soal-ts-sick-boii.html",
+  "original": true,
+  "revision": "d2464f8ff756",
+  "storageKey": "ts-sick-boii-math-attempt-d2464f8ff756",
+  "lead": "Matematika dari screenshotmu, disalin sebagai teks interaktif. Stimulus terhubung kembali ke setiap soal, dengan audit kelengkapan dan pembahasan hasil analisis.",
+  "aboutHTML": "<p>Seluruh 35 screenshot dibaca dan dipetakan ke 22 nomor. 18 nomor masuk penskoran. Nomor 1, 15, dan 20 belum lengkap. Penempatan screenshot pertanyaan yang diduga nomor 21 belum terkonfirmasi, sehingga tidak ikut skor. Tabel nomor 22 diperbaiki menjadi empat pernyataan asli.</p><p>30 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi yang terbukti dari screenshot.</p><p>Sumber yang tertulis pada screenshot: Disadur dari Kemendikbudristek, Buku Teks Pelajaran Tes Kemampuan Akademik (TKA) Kelas TKA SMP/MTs (Perkaban No. 047/H/AN/2025). Atribusi ini disalin dari screenshot; asal naskah dan distribusi bobotnya belum diverifikasi secara independen.</p><p>Kunci dan estimasi tingkat kesulitan merupakan hasil analisis editorial; bukan kunci resmi. Angka bobot berbeda antarestimulus dan dipakai hanya pada kelompok soal yang bersangkutan.</p><p><a href=\"analisis-soal-ts-sick-boii.html\">Buka analisis seluruh nomor dan inventaris screenshot</a>.</p>"
+}

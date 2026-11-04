@@ -1,17 +1,16 @@
 {
-  "screenshots": 44,
-  "participant_screenshots": 39,
-  "admin_screenshots": 5,
-  "math_numbers": 22,
-  "math_graded": 21,
-  "modified_graded": 22,
+  "screenshots": 8,
+  "participant_screenshots": 0,
+  "admin_screenshots": 8,
+  "math_numbers": 10,
+  "math_graded": 9,
+  "modified_graded": 10,
   "math_forms": {
-    "PG": 14,
-    "PGK MCMA": 6,
-    "PGK Kategori": 1
+    "PG": 8,
+    "PGK MCMA": 1
   },
   "excluded": [
-    1
+    6
   ],
   "output": "ts-sick-boii-site",
   "files": [

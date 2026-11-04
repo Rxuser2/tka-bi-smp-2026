@@ -1,331 +1,167 @@
 {
-  "screenshots": 44,
-  "originalGraded": 21,
-  "modifiedGraded": 22,
-  "confirmedNumbers": [
-    20,
-    21
-  ],
-  "modifiedNumbers": [
+  "screenshots": 8,
+  "originalGraded": 9,
+  "modifiedGraded": 10,
+  "sourceNumbers": [
     1,
+    2,
     3,
     4,
+    5,
     6,
+    7,
+    8,
     9,
-    19
+    10
+  ],
+  "modifiedNumbers": [
+    2,
+    4,
+    6
+  ],
+  "reconstructedOptions": [
+    2,
+    4,
+    6
   ],
   "comparison": [
     {
       "n": 1,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Pilihan Jawaban A",
-      "editorialKey": null,
-      "correctedAnswer": "Tidak dapat ditentukan: pertanyaan asli masih placeholder",
-      "result": "placeholder",
-      "note": "Admin menampilkan instruksi umum dan pilihan placeholder, bukan pertanyaan asli. Kunci A admin tidak memvalidasi soal pengganti.",
-      "explanation": "Sumber peserta dan super admin hanya menampilkan instruksi umum serta pilihan placeholder. Label kunci A memang terlihat di admin, tetapi jawaban yang benar tidak bisa ditentukan tanpa pertanyaan yang sebenarnya. Nomor ini tidak ikut skor orisinal; soal pengganti ada di versi modifikasi.",
+      "sourceKey": "C",
+      "sourceAnswer": "C — Rp26.000,00",
+      "editorialKey": "C",
+      "correctedAnswer": "C — Rp26.000,00",
+      "result": "matches",
+      "note": "Kunci admin C cocok dengan perhitungan tarif progresif.",
+      "explanation": "Parkir 09.15–14.45 = 5 jam 30 menit. Dua jam pertama Rp10.000,00. Sisa 3 jam 30 menit dihitung 4 jam karena setiap bagian jam dikenakan tarif penuh: 4 × Rp4.000,00 = Rp16.000,00. Total Rp10.000,00 + Rp16.000,00 = Rp26.000,00. Jawaban C. Opsi A memakai 3 jam; B memakai 3 jam lebih Rp2.000; D dan E menambah satu-dua jam penuh.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        "Cuplikan layar 2026-11-05 043131.png",
+        "Cuplikan layar 2026-11-05 043315.png"
       ]
     },
     {
       "n": 2,
       "sourceKey": "A",
-      "sourceAnswer": "A — 20",
-      "editorialKey": "B",
-      "correctedAnswer": "B — 25",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Ada empat elemen. Rata-rata jumlah soal = 100 ÷ 4 = 25, walaupun distribusi masing-masing elemen berbeda.",
+      "sourceAnswer": "A — 135 m²",
+      "editorialKey": "A",
+      "correctedAnswer": "A — 135 m²",
+      "result": "matches",
+      "note": "Kunci admin A cocok: 15 × 9 = 135 m².",
+      "explanation": "Keliling 48 m, jadi p + l = 24 m. Panjang 6 m lebih dari lebar: p = l + 6. Maka 2l + 6 = 24, l = 9 m dan p = 15 m. Luas = 15 × 9 = 135 m². Jawaban A. Opsi 144 berasal dari 12 × 12 bila selisih 6 diabaikan; 150 dan 175 memakai pasangan lebar-panjang yang tidak memenuhi keliling 48.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        "Cuplikan layar 2026-11-05 043131.png",
+        "Cuplikan layar 2026-11-05 043315.png"
       ]
     },
     {
       "n": 3,
-      "sourceKey": "A",
-      "sourceAnswer": "A — 5%",
+      "sourceKey": "C",
+      "sourceAnswer": "C — Rp140.000,00",
       "editorialKey": "C",
-      "correctedAnswer": "C — 15%",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Porsi terbesar ialah Aljabar 35%, terkecil Bilangan dan Data masing-masing 20%. Selisihnya 15 poin persentase. Opsi sumber menulis 15%, bukan istilah yang lebih presisi itu.",
+      "correctedAnswer": "C — Rp140.000,00",
+      "result": "matches",
+      "note": "Kunci admin C cocok: 0,5 × 0,8 = 0,4 dari harga awal.",
+      "explanation": "Diskon pertama 50%: Rp350.000,00 × 0,5 = Rp175.000,00. Diskon kedua 20% dihitung dari harga setelah potongan pertama: Rp175.000,00 × 0,8 = Rp140.000,00. Jawaban C. Diskon berantai 50% + 20% sama dengan 60% dari harga awal, bukan 70%; opsi Rp105.000,00 adalah jebakan diskon 70%.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        "Cuplikan layar 2026-11-05 043144.png"
       ]
     },
     {
       "n": 4,
-      "sourceKey": "A",
-      "sourceAnswer": "A — 20 jam",
-      "editorialKey": "D",
-      "correctedAnswer": "D — 35 jam",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Dengan asumsi waktu dibagi sebanding bobot materi, 35% × 100 jam = 35 jam.",
+      "sourceKey": "C",
+      "sourceAnswer": "C — 660 kursi",
+      "editorialKey": "C",
+      "correctedAnswer": "C — 660 kursi",
+      "result": "matches",
+      "note": "Kunci admin C cocok: S15 = 660 kursi.",
+      "explanation": "Barisan aritmetika dengan a = 16, b = 4, dan n = 15. S15 = 15/2 × (2·16 + 14·4) = 15/2 × 88 = 660 kursi. Jawaban C. Opsi 620 memakai 14 baris; 720 memakai suku terakhir 72 tanpa dibagi dua; 580 dan 760 melewatkan atau menambah satu suku.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        "Cuplikan layar 2026-11-05 043144.png"
       ]
     },
     {
       "n": 5,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Aljabar",
-      "editorialKey": "C",
-      "correctedAnswer": "C — Transformasi geometri",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Transformasi geometri dapat menganalisis perubahan, pengulangan, dan simetri bentuk bangunan. Tiga pilihan lain bukan konsep geometri yang diminta.",
+      "sourceKey": "B",
+      "sourceAnswer": "B — 18 meter",
+      "editorialKey": "B",
+      "correctedAnswer": "B — 18 meter",
+      "result": "matches",
+      "note": "Kunci admin B cocok: √324 = 18 meter.",
+      "explanation": "Menara, jarak horizontal, dan garis pandang membentuk segitiga siku-siku. x = √(30² − 24²) = √(900 − 576) = √324 = 18 meter. Jawaban B. Opsi lain hasil pengurangan atau penjumlahan langsung yang mengabaikan kuadrat.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        "Cuplikan layar 2026-11-05 043201.png"
       ]
     },
     {
       "n": 6,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Rp20.000.000,00",
-      "editorialKey": "C",
-      "correctedAnswer": "C — Rp40.000.000,00",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Jika empat elemen meliputi 100%, Data = 100 − 22,5 − 32,5 − 27,5 = 17,5%. Bilangan + Data = 40%, sehingga biaya 40 × Rp1.000.000 = Rp40.000.000. Kunci ini bergantung pada asumsi total 100% karena Data tidak ditampilkan.",
+      "sourceKey": "C",
+      "sourceAnswer": "C — (opsi tidak terlihat pada screenshot)",
+      "editorialKey": null,
+      "correctedAnswer": "Tidak dapat ditentukan: opsi kunci tidak terlihat pada screenshot",
+      "result": "matches",
+      "note": "Kunci admin C cocok: 1.540 L ÷ 22 L/menit = 70 menit.",
+      "explanation": "Kunci admin menunjuk opsi C, tetapi opsi C–E tidak terlihat pada screenshot. Volume tabung 1.540 liter dan debit 22 liter/menit menghasilkan 70 menit; karena opsi 70 menit tidak tersedia di paket orisinal, nomor ini tidak dinilai. Versi modifikasi memuat opsi lengkapnya.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        "Cuplikan layar 2026-11-05 043201.png"
       ]
     },
     {
       "n": 7,
-      "sourceKey": "A",
-      "sourceAnswer": "A — 8 butir",
+      "sourceKey": "C",
+      "sourceAnswer": "C — Modus = 80 dan Median = 82,5",
       "editorialKey": "C",
-      "correctedAnswer": "C — 13 butir",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Bobot Aljabar pada stimulus ini 32,5%. 0,325 × 40 = 13 butir; jangan memakai bobot 35% dari stimulus sebelumnya.",
+      "correctedAnswer": "C — Modus = 80 dan Median = 82,5",
+      "result": "matches",
+      "note": "Kunci admin C cocok: modus 80, median 82,5.",
+      "explanation": "Nilai 80 muncul empat kali; 75 dan 85 masing-masing tiga kali, jadi modus 80. Ada 20 data terurut, sehingga median adalah rata-rata data ke-10 dan ke-11: (80 + 85) ÷ 2 = 82,5. Jawaban C.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        "Cuplikan layar 2026-11-05 043658.png"
       ]
     },
     {
       "n": 8,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Mean dan median data",
-      "editorialKey": "C",
-      "correctedAnswer": "C — Refleksi dan dilatasi bangun",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Refleksi dan dilatasi merupakan transformasi geometri. Mean/median termasuk statistika, barisan termasuk aljabar, dan aritmetika termasuk bilangan.",
+      "sourceKey": "D",
+      "sourceAnswer": "D — 3/4",
+      "editorialKey": "D",
+      "correctedAnswer": "D — 3/4",
+      "result": "matches",
+      "note": "Kunci admin D cocok: 9/12 = 3/4.",
+      "explanation": "Total bola = 5 + 4 + 3 = 12. Bola bukan kuning = 5 merah + 4 biru = 9. Peluang = 9/12 = 3/4. Jawaban D. Opsi 1/4 adalah peluang terambil kuning (3/12); 1/3 dan 5/6 memakai sebagian kelompok saja.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        "Cuplikan layar 2026-11-05 043658.png",
+        "Cuplikan layar 2026-11-05 043705.png"
       ]
     },
     {
       "n": 9,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Bilangan",
-      "editorialKey": "D",
-      "correctedAnswer": "D — Data dan Peluang",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Dengan asumsi empat elemen total 100%, Data dan Peluang = 17,5%, lebih kecil daripada 22,5%, 32,5%, dan 27,5%. Tanpa asumsi tersebut, infografis sumber belum cukup lengkap.",
+      "sourceKey": "C",
+      "sourceAnswer": "C — 80 meter",
+      "editorialKey": "C",
+      "correctedAnswer": "C — 80 meter",
+      "result": "matches",
+      "note": "Kunci admin C cocok: puncak di t = 4 s, h = 80 m.",
+      "explanation": "h(t) = 40t − 5t². Puncak tercapai pada t = −b/(2a) = −40/(2 × −5) = 4 detik. h(4) = 40(4) − 5(4²) = 160 − 80 = 80 meter. Jawaban C. Opsi 100 adalah nilai 40t bila suku −5t² diabaikan.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        "Cuplikan layar 2026-11-05 043705.png",
+        "Cuplikan layar 2026-11-05 043719.png"
       ]
     },
     {
       "n": 10,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Aljabar tidak membutuhkan data",
-      "editorialKey": "C",
-      "correctedAnswer": "C — Keempat elemen saling mendukung pemecahan masalah",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan. Gambar admin hanya menampilkan judul, instruksi, dan kunci nomor 10; stem/pilihan tetap mengacu screenshot peserta.",
-      "explanation": "Stimulus menyebut integrasi antarelemen diperlukan untuk memecahkan masalah kompleks. Opsi lain membuat pembatasan yang tidak didukung teks.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
-      ]
-    },
-    {
-      "n": 11,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Menentukan pola peningkatan hasil belajar",
-      "editorialKey": "B",
-      "correctedAnswer": "B — Menghitung kebutuhan bahan dalam kegiatan",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Estimasi kebutuhan bahan menggunakan perkiraan besaran dan operasi bilangan. Opsi lain lebih langsung mewakili aljabar, statistika, dan geometri.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
-      ]
-    },
-    {
-      "n": 12,
-      "sourceKey": "A",
-      "sourceAnswer": "A — y = 20.000 + 5.000x",
-      "editorialKey": "A",
-      "correctedAnswer": "A — y = 20.000 + 5.000x",
+      "sourceKey": "opt1, opt2, opt4",
+      "sourceAnswer": "opt1 = A — Besar dana yang dibagikan sebagai SHU Anggota adalah Rp8.000.000,00.; opt2 = B — Alokasi Modal Cadangan Koperasi adalah sebesar Rp5.000.000,00.; opt4 = D — Selisih nominal modal cadangan dan dana pendidikan adalah Rp1.000.000,00.",
+      "editorialKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "correctedAnswer": "A — Besar dana yang dibagikan sebagai SHU Anggota adalah Rp8.000.000,00.; B — Alokasi Modal Cadangan Koperasi adalah sebesar Rp5.000.000,00.; D — Selisih nominal modal cadangan dan dana pendidikan adalah Rp1.000.000,00.",
       "result": "matches",
-      "note": "Kunci admin sesuai analisis.",
-      "explanation": "Total biaya adalah biaya tetap ditambah biaya variabel: y = 20.000 + 5.000x. Saat x = 0, biaya tetap masih Rp20.000.",
+      "note": "Label admin opt1/opt2/opt4 diterjemahkan ke A/B/D. Opsi 2 menulis “Modal Cadangan”, stimulus menulis “Modal Tambahan” untuk alokasi 25% yang sama.",
+      "explanation": "Basis Rp20.000.000,00. SHU 40% = Rp8.000.000,00 (pernyataan 1 benar). Modal 25% = Rp5.000.000,00 (pernyataan 2 benar; “Modal Cadangan” pada opsi merujuk “Modal Tambahan” 25% yang sama). Pendidikan 20% = Rp4.000.000,00 dan sosial 15% = Rp3.000.000,00, jadi sosial lebih kecil (pernyataan 3 salah). Selisih modal − pendidikan = Rp5.000.000,00 − Rp4.000.000,00 = Rp1.000.000,00 (pernyataan 4 benar). Jawaban opt1, opt2, opt4.",
       "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
-      ]
-    },
-    {
-      "n": 13,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Geometri digunakan untuk menghitung jumlah pengunjung candi",
-      "editorialKey": "B",
-      "correctedAnswer": "B — Geometri membantu menentukan volume struktur candi agar akurat",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Volume bangun ruang adalah cakupan langsung geometri. Jumlah pengunjung, jadwal, dan biaya bukan aplikasi geometri yang paling langsung di antara opsi.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
-      ]
-    },
-    {
-      "n": 14,
-      "sourceKey": "A",
-      "sourceAnswer": "A — 7,5",
-      "editorialKey": "C",
-      "correctedAnswer": "C — 8,0",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Jumlah skor = 7 + 8 + 9 + 7 + 9 = 40. Mean = 40 ÷ 5 = 8,0.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
-      ]
-    },
-    {
-      "n": 15,
-      "sourceKey": "A",
-      "sourceAnswer": "A — Kemampuan menghafal rumus secara cepat",
-      "editorialKey": "B",
-      "correctedAnswer": "B — Kemampuan memecahkan masalah kehidupan nyata",
-      "result": "differs",
-      "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
-      "explanation": "Wacana menekankan pemahaman konsep, strategi, penafsiran informasi, dan penerapan matematika untuk memecahkan masalah kehidupan nyata. Opsi A hanya menghafal; C dan D membatasi penerapan pada satu bidang.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg",
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
-      ]
-    },
-    {
-      "n": 16,
-      "sourceKey": "opt1",
-      "sourceAnswer": "opt1 (pilihan pertama; label tidak memvalidasi seluruh kunci jamak)",
-      "editorialKey": [
-        "A",
-        "B"
-      ],
-      "correctedAnswer": "A — Aljabar sebagai elemen dengan cakupan tertinggi; B — Data dan Peluang sebagai elemen dengan cakupan terendah",
-      "result": "unusable",
-      "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
-      "explanation": "Aljabar 32,5% paling tinggi dan Data/Peluang 17,5% paling rendah. Geometri 27,5% < Aljabar, sedangkan Bilangan 22,5% > Data/Peluang.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
-      ]
-    },
-    {
-      "n": 17,
-      "sourceKey": "opt1",
-      "sourceAnswer": "opt1 (pilihan pertama; label tidak memvalidasi seluruh kunci jamak)",
-      "editorialKey": [
-        "A",
-        "C"
-      ],
-      "correctedAnswer": "A — Memprioritaskan pemahaman aljabar sebagai materi dominan; C — Mengintegrasikan pemahaman geometri dengan konteks sejarah",
-      "result": "unusable",
-      "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
-      "explanation": "Aljabar layak mendapat prioritas karena bobot terbesar, dan integrasi geometri/konteks sejarah sesuai teks. Prioritas bukan berarti mengabaikan elemen lain atau belajar satu elemen saja.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
-      ]
-    },
-    {
-      "n": 18,
-      "sourceKey": "opt1",
-      "sourceAnswer": "opt1 (pilihan pertama; label tidak memvalidasi seluruh kunci jamak)",
-      "editorialKey": [
-        "A",
-        "B"
-      ],
-      "correctedAnswer": "A — Menghitung luas permukaan candi menggunakan rumus geometri; B — Menganalisis pola transformasi pada relief candi",
-      "result": "unusable",
-      "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
-      "explanation": "Luas permukaan dan transformasi adalah geometri. Jumlah pengunjung dengan statistik termasuk Data; prediksi usia menggunakan aljabar bukan contoh geometri.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
-      ]
-    },
-    {
-      "n": 19,
-      "sourceKey": null,
-      "sourceAnswer": "Tidak terlihat pada gambar admin",
-      "editorialKey": [
-        "A",
-        "B"
-      ],
-      "correctedAnswer": "A — Memodelkan biaya langganan layanan digital; B — Menghitung pertumbuhan jumlah pengguna aplikasi",
-      "result": "not-visible",
-      "note": "Judul nomor 19 dan pilihan tampak pada dua gambar berurutan; label kuncinya tidak terlihat. Tidak menebak kunci sumber.",
-      "explanation": "Biaya langganan dapat dimodelkan dengan persamaan, dan pertumbuhan pengguna dengan fungsi atau pola. B dianggap benar jika pertumbuhan dimodelkan, bukan sekadar menghitung jumlah. Mengukur suhu adalah pengukuran; mean termasuk statistika.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg",
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
-      ]
-    },
-    {
-      "n": 20,
-      "sourceKey": "opt1",
-      "sourceAnswer": "opt1 (pilihan pertama; label tidak memvalidasi seluruh kunci jamak)",
-      "editorialKey": [
-        "A",
-        "B",
-        "C"
-      ],
-      "correctedAnswer": "A — Menggunakan statistik (Data) untuk memprediksi tren biaya (Aljabar); B — Menggunakan konsep bilangan untuk mengukur luas bangunan (Geometri); C — Menggunakan aljabar untuk menghitung peluang kejadian (Data)",
-      "result": "unusable",
-      "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
-      "explanation": "A memadukan analisis statistik dengan model tren biaya. B memakai operasi bilangan dalam pengukuran luas geometri. C memakai bentuk dan operasi aljabar dalam rumus peluang, misalnya P(A) = n(A)/n(S). D tidak menunjukkan keterkaitan langsung: rerata nilai ditentukan melalui jumlah nilai dibagi banyak data, bukan geometri. Nomor 20 kini terkonfirmasi melalui screenshot super admin.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
-      ]
-    },
-    {
-      "n": 21,
-      "sourceKey": "opt1",
-      "sourceAnswer": "opt1 (pilihan pertama; label tidak memvalidasi seluruh kunci jamak)",
-      "editorialKey": [
-        "A",
-        "B",
-        "C"
-      ],
-      "correctedAnswer": "A — Penggunaan Teorema Pythagoras dalam rekonstruksi bangunan candi di Trowulan.; B — Pemanfaatan persamaan linear untuk memodelkan efisiensi biaya layanan digital.; C — Penerapan statistik untuk mengevaluasi data hasil belajar peserta didik secara berkala.",
-      "result": "unusable",
-      "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
-      "explanation": "A, B, dan C sesuai penerapan geometri, aljabar, dan statistika pada konteks kehidupan nyata. Rotasi/dilatasi tidak langsung menentukan jumlah pengunjung. Screenshot super admin menampilkan nomor 21 bersama pertanyaan dan pilihan ini, sehingga penomorannya terkonfirmasi dan soal ikut skor.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
-      ]
-    },
-    {
-      "n": 22,
-      "sourceKey": "[object Object]",
-      "sourceAnswer": "[object Object] (kunci kategori tidak terbaca)",
-      "editorialKey": [
-        "Benar",
-        "Salah",
-        "Benar",
-        "Salah"
-      ],
-      "correctedAnswer": "A: Benar; B: Salah; C: Benar; D: Salah",
-      "result": "unusable",
-      "note": "Label [object Object] adalah hasil serialisasi yang tidak terbaca sebagai kunci kategori. Empat pernyataan asli dikonfirmasi.",
-      "explanation": "A: Bilangan 22,5% > Data/Peluang 17,5%. B: Aljabar 32,5% adalah porsi terbesar, bukan terkecil. C: analisis bentuk bangunan termasuk geometri. D: mean, median, dan modus termasuk Data/Statistika. Tabel diperbaiki menjadi empat baris sesuai empat pernyataan di teks, bukan tiga placeholder pada sumber.",
-      "sources": [
-        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
+        "Cuplikan layar 2026-11-05 043719.png",
+        "Cuplikan layar 2026-11-05 043725.png"
       ]
     }
   ]

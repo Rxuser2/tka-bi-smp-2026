@@ -1,456 +1,103 @@
 [
   {
-    "file": "Cuplikan layar 2026-11-04 174828.png",
-    "sha256": "95c78ab69e543267b4892d7832eec2010f32fa53eb49c12edb51551c7da12d68",
+    "file": "Cuplikan layar 2026-11-05 043131.png",
+    "sha256": "04ba61f1f532a4516265872a026242ff13ef293504fea49814d653276d4f75a3",
     "numbers": [
-      "1"
-    ],
-    "stimuli": [
-      "1–5"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 174835.png",
-    "sha256": "4069024f5dd09edcfb229c8c5dfed9cb213745d96e8f4a1159178bad843c27de",
-    "numbers": [
-      "1"
-    ],
-    "stimuli": [
-      "1–5"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 174840.png",
-    "sha256": "d8caa8b853821ddadac8e0dbe00d5bf316ae56162b1e3cb294cfceb176607c82",
-    "numbers": [
-      "1"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 174851.png",
-    "sha256": "939589f5245dabaf871f2d5c0e7d0b18684fcaed15b650a19a34af797754b6f3",
-    "numbers": [
+      "1",
       "2"
     ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 174857.png",
-    "sha256": "8679da317438c53f136d6294aceb6ad20dc779bd79a70f7e798d4082525e1dbf",
-    "numbers": [
-      "3"
+    "stimuli": [
+      "1",
+      "2"
     ],
-    "stimuli": [],
-    "kind": "participant"
+    "kind": "super-admin"
   },
   {
-    "file": "Cuplikan layar 2026-11-04 174903.png",
-    "sha256": "9ff55e1a9355034d3a8024003f160b4eed11a11510e7caa659c3e6588b14ecff",
+    "file": "Cuplikan layar 2026-11-05 043144.png",
+    "sha256": "598f8dbd07b7c9dea89e2593b2fafdebe700835a37f7e5f24dde7b9e3bec4a14",
     "numbers": [
+      "3",
       "4"
     ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 174908.png",
-    "sha256": "6225c4c3580d5fd22ef14d756a2d1eb786617877ea5936ff13d628974bbb1074",
-    "numbers": [
-      "5"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 174917.png",
-    "sha256": "6056eb12d78b14647b02c34dea69db3cb795653f33a84f439b0a595104fdf0b5",
-    "numbers": [],
     "stimuli": [
-      "6–10"
+      "3",
+      "4"
     ],
-    "kind": "participant"
+    "kind": "super-admin"
   },
   {
-    "file": "Cuplikan layar 2026-11-04 174928.png",
-    "sha256": "b679f82a6d8d2b820baf390f119d20279fc2e9be3adf61faa6ddb4fc98902f44",
+    "file": "Cuplikan layar 2026-11-05 043201.png",
+    "sha256": "6398e4d3069dffe2045c185c44bd4b1fb8b34a07e9824a9e70c1a0de804b65d6",
     "numbers": [
+      "5",
       "6"
     ],
     "stimuli": [
-      "6–10"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 174934.png",
-    "sha256": "5b9ff997a020d070932243861bd89d23ab6f25cd6e35a18f42ed0b57942d1264",
-    "numbers": [
+      "5",
       "6"
     ],
-    "stimuli": [],
-    "kind": "participant"
+    "kind": "super-admin"
   },
   {
-    "file": "Cuplikan layar 2026-11-04 174940.png",
-    "sha256": "54bc7d7b01e7324328e98efdfceeb633f4f822b08f5a7a1412adbead995ee40c",
+    "file": "Cuplikan layar 2026-11-05 043315.png",
+    "sha256": "7bd4880a89092fab0bb21f3e360bdda3d2745ddeca3415c46579bdf4b607c6e0",
     "numbers": [
-      "7"
+      "1",
+      "2"
     ],
-    "stimuli": [],
-    "kind": "participant"
+    "stimuli": [
+      "1",
+      "2"
+    ],
+    "kind": "super-admin"
   },
   {
-    "file": "Cuplikan layar 2026-11-04 174946.png",
-    "sha256": "933bbd0ab10e33413f718ab1d77ca76d39fdf6f65efd4124c6f812c9142566d2",
+    "file": "Cuplikan layar 2026-11-05 043658.png",
+    "sha256": "08a2cfa92905f91e6916ecb4c4c9f9e05b4b61436c8d761cde72b2ff33b7b71a",
     "numbers": [
+      "7",
       "8"
     ],
-    "stimuli": [],
-    "kind": "participant"
+    "stimuli": [
+      "7",
+      "8"
+    ],
+    "kind": "super-admin"
   },
   {
-    "file": "Cuplikan layar 2026-11-04 174951.png",
-    "sha256": "9b936fa8c2536be09604af767afc410b08d6860400b97d652d9fa07f7cfeb482",
+    "file": "Cuplikan layar 2026-11-05 043705.png",
+    "sha256": "f6cade276b1fbdd0dd57ad75c412b0f191c424fa7a9ef75826947ff5fe158f83",
     "numbers": [
+      "8",
       "9"
     ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 174957.png",
-    "sha256": "490d87d592e44a6cdca78a44fcf79f4ed5d28be1cb8facfa95204468db7756c5",
-    "numbers": [
-      "10"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175007.png",
-    "sha256": "929a92fa0701ceef46685544af4e370021e0fdc0affa7950398f64036026880d",
-    "numbers": [
-      "11"
-    ],
     "stimuli": [
-      "11–14"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175019.png",
-    "sha256": "af1ae5a226e944b1c657a9f02d76b645f7151540f1f91d4ba4377685c72cb110",
-    "numbers": [],
-    "stimuli": [
-      "11–14"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175028.png",
-    "sha256": "83dfd9969bb28eb43129273d37324a7010346646b62f3421c69106e29bdcd83b",
-    "numbers": [
-      "11"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175043.png",
-    "sha256": "55b72df3aa00f5921a6b64f6fd46dca61ebeb1ff92361aa836940201d5a71d12",
-    "numbers": [
-      "12"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175054.png",
-    "sha256": "c9ec265812d2aed6cf5c27f69bfb35f0f8e19c61e9e166eb0eae76d01141f7a6",
-    "numbers": [
-      "13"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175104.png",
-    "sha256": "8486ec2dbcbb3d624e91be258305382537a4864bd013d1f9371d2b1b322bded6",
-    "numbers": [
-      "14"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175114.png",
-    "sha256": "c2d94032e23952fe3d751542fcbd85b9f6bf67e44cb6dc5b2738166d129abf54",
-    "numbers": [
-      "15"
-    ],
-    "stimuli": [
-      "15–19"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175125.png",
-    "sha256": "b6011085c4adf7cc617271979b8bc856b8f7cfc492820d9e36c6aec8af740440",
-    "numbers": [
-      "15"
-    ],
-    "stimuli": [
-      "15–19"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175130.png",
-    "sha256": "cc641098ea233736475bed021be14d751ac911f27eca1cdd1eea6e9adbe29750",
-    "numbers": [
-      "15"
-    ],
-    "stimuli": [
-      "15–19"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175135.png",
-    "sha256": "172e991e260472302890a3d798549f3b92662c0ba2f09b34571e2d95da1f91ec",
-    "numbers": [
-      "15"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175141.png",
-    "sha256": "e545e7f02217b4df995ecfae8f648d7d00b04344e012bd6be9415611aaaa470d",
-    "numbers": [
-      "16"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175147.png",
-    "sha256": "e9eb7a9c70c1dc169addc8ecba1ab69d5838d27c51d4947f564b5ccfc8a2c084",
-    "numbers": [
-      "17"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175152.png",
-    "sha256": "57afd369772abb8bb48f185d3b68ee0fc7e6b7d6a4d0fc8ab63b772d537891da",
-    "numbers": [
-      "18"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175156.png",
-    "sha256": "4d18e06e3544a2f923591eb33c02ee8fc835025b2c8473c279db349e81c01ae9",
-    "numbers": [
-      "19"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175203.png",
-    "sha256": "aab4fa713fea279c454a1082a949139ca1ef515891de6d16ca00273e772e8eab",
-    "numbers": [
-      "20"
-    ],
-    "stimuli": [
-      "20"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175215.png",
-    "sha256": "21ccf66725029cd0ac07307f807cf118b45fcf724f3c64a45b3c3f8bee89e6c3",
-    "numbers": [
-      "20"
-    ],
-    "stimuli": [
-      "20"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175221.png",
-    "sha256": "d17310328542d43ddd324f1406214f94acabcb4a03080e48c280a2d9a6456650",
-    "numbers": [
-      "20"
-    ],
-    "stimuli": [
-      "20"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175229.png",
-    "sha256": "35e32ec11b6132c792882429db2de7f1a3046736484a81785896b2a28f9be328",
-    "numbers": [
-      "20"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175238.png",
-    "sha256": "07d35288ccfde0358e55a5fbec878eacadde7821e07927b5b51fe3ff89e73671",
-    "numbers": [
-      "21"
-    ],
-    "stimuli": [
-      "21–22"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175247.png",
-    "sha256": "80f9aa88e2bf9df94982fa0c17c937ae2c25e2ce6a7a32d738f589a0b6655dca",
-    "numbers": [
-      "21"
-    ],
-    "stimuli": [
-      "21–22"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175255.png",
-    "sha256": "7610b252a7a1c90679d860ca3be20876c6f9cbfb8eaf0cae6c0a018f4ddbcbc0",
-    "numbers": [
-      "21"
-    ],
-    "stimuli": [
-      "21–22"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175300.png",
-    "sha256": "4002e6f0fa12af90ff101e9489c6e6f3a69c4b942f86ef5ad1407a056488a9e2",
-    "numbers": [
-      "21"
-    ],
-    "stimuli": [
-      "21–22"
-    ],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175307.png",
-    "sha256": "883fae539291310184ceea4b371efcda8c483475020f8629f4dc2ee84addb268",
-    "numbers": [
-      "21"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175317.png",
-    "sha256": "485a86ca881a66adf064b08c7a3a1b4bb6835638bf43e12316f4fa5ed14952ef",
-    "numbers": [
-      "22"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "Cuplikan layar 2026-11-04 175322.png",
-    "sha256": "efbeb74dc0bbd2a0a91712312338f85d73c7c1337c89bf4c7e08111be207906f",
-    "numbers": [
-      "22"
-    ],
-    "stimuli": [],
-    "kind": "participant"
-  },
-  {
-    "file": "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg",
-    "sha256": "edaf74869526e7de869f9c2bc074e204de003e708ee008ddebf4e3c5db787cb2",
-    "numbers": [
-      "6",
-      "7",
       "8",
+      "9"
+    ],
+    "kind": "super-admin"
+  },
+  {
+    "file": "Cuplikan layar 2026-11-05 043719.png",
+    "sha256": "b67736c277ad928ee13d184311b71d71c368477fba5e5cf046afd2866cfc36a3",
+    "numbers": [
       "9",
       "10"
     ],
     "stimuli": [
-      "6–10"
+      "9",
+      "10"
     ],
     "kind": "super-admin"
   },
   {
-    "file": "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg",
-    "sha256": "b9ddd868cd8215f91874efa9e9eda610091e185ed4b2fb07baa1dba6d8f61b82",
+    "file": "Cuplikan layar 2026-11-05 043725.png",
+    "sha256": "e95b398a381a5e5901e8789ee5a313251f345444b63c57dd4d313f1d21ce38ae",
     "numbers": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
+      "10"
     ],
     "stimuli": [
-      "1–5"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg",
-    "sha256": "aa0496c3fa7d20627ddfd32ea10e0bc8dda612acbfe0116df7de95ba3fbf7b98",
-    "numbers": [
-      "15",
-      "16",
-      "17",
-      "18",
-      "19"
-    ],
-    "stimuli": [
-      "15–19"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg",
-    "sha256": "6d55c06383d856a4ab9bb80a6519326d1452ddf76154fd580e51b46bd97ca593",
-    "numbers": [
-      "11",
-      "12",
-      "13",
-      "14",
-      "15"
-    ],
-    "stimuli": [
-      "11–14",
-      "15–19"
-    ],
-    "kind": "super-admin"
-  },
-  {
-    "file": "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg",
-    "sha256": "6d57575e5f797232752d0acb06f4b2349f8c7fc38b7b013fe931529cc32e19e0",
-    "numbers": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "stimuli": [
-      "20",
-      "21–22"
+      "10"
     ],
     "kind": "super-admin"
   }

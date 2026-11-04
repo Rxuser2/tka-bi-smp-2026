@@ -1,6 +1,6 @@
 {
-  "id": "ts-sick-boii-matematika",
-  "title": "Matematika · Salinan Screenshot",
+  "id": "ts-sick-boii-matematika-original",
+  "title": "Matematika · Orisinal",
   "subject": "Matematika",
   "minutes": 30,
   "durationNote": "30 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi yang terbukti dari screenshot.",
@@ -39,7 +39,8 @@
       "note": "Persentase cakupan materi dalam asesmen matematika TKA SMP.",
       "sources": [
         "Cuplikan layar 2026-11-04 174828.png",
-        "Cuplikan layar 2026-11-04 174835.png"
+        "Cuplikan layar 2026-11-04 174835.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
       ]
     },
     {
@@ -70,7 +71,8 @@
       "note": "Data elemen Data dan Peluang tidak tercantum dalam infografis sumber. Sisa 17,5% dapat diturunkan hanya jika empat elemen mencakup tepat 100%.",
       "sources": [
         "Cuplikan layar 2026-11-04 174917.png",
-        "Cuplikan layar 2026-11-04 174928.png"
+        "Cuplikan layar 2026-11-04 174928.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
       ]
     },
     {
@@ -101,7 +103,8 @@
       "note": "Analisis proporsi materi dalam TKA SMP. Infografis sumber hanya mencantumkan Aljabar, Geometri, dan Bilangan; tidak menampilkan persentase Data dan Peluang.",
       "sources": [
         "Cuplikan layar 2026-11-04 175007.png",
-        "Cuplikan layar 2026-11-04 175019.png"
+        "Cuplikan layar 2026-11-04 175019.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
       ]
     },
     {
@@ -139,7 +142,9 @@
       "sources": [
         "Cuplikan layar 2026-11-04 175114.png",
         "Cuplikan layar 2026-11-04 175125.png",
-        "Cuplikan layar 2026-11-04 175130.png"
+        "Cuplikan layar 2026-11-04 175130.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
       ]
     },
     {
@@ -172,7 +177,8 @@
       "sources": [
         "Cuplikan layar 2026-11-04 175203.png",
         "Cuplikan layar 2026-11-04 175215.png",
-        "Cuplikan layar 2026-11-04 175221.png"
+        "Cuplikan layar 2026-11-04 175221.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
       ]
     },
     {
@@ -212,7 +218,8 @@
         "Cuplikan layar 2026-11-04 175238.png",
         "Cuplikan layar 2026-11-04 175247.png",
         "Cuplikan layar 2026-11-04 175255.png",
-        "Cuplikan layar 2026-11-04 175300.png"
+        "Cuplikan layar 2026-11-04 175300.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
       ]
     }
   ],
@@ -228,18 +235,39 @@
         "Pilihan Jawaban D"
       ],
       "key": null,
-      "explanation": "Pertanyaan tidak terlihat dan pilihan pada screenshot masih berupa placeholder. Nomor ini tidak dinilai.",
+      "explanation": "Sumber peserta dan super admin hanya menampilkan instruksi umum serta pilihan placeholder. Label kunci A memang terlihat di admin, tetapi jawaban yang benar tidak bisa ditentukan tanpa pertanyaan yang sebenarnya. Nomor ini tidak ikut skor orisinal; soal pengganti ada di versi modifikasi.",
       "form": "PG",
       "topic": "Penalaran",
       "level": "Mudah",
       "sources": [
         "Cuplikan layar 2026-11-04 174828.png",
         "Cuplikan layar 2026-11-04 174835.png",
-        "Cuplikan layar 2026-11-04 174840.png"
+        "Cuplikan layar 2026-11-04 174840.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
       ],
       "status": "missing",
-      "issue": "Stem soal tidak tersedia; pilihan A–D merupakan placeholder dari sumber.",
-      "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "issue": "Orisinal: pertanyaan tidak tersedia; pilihan masih placeholder. Tidak dinilai.",
+      "keyOrigin": "Tidak dapat ditentukan dari sumber yang tersedia",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "placeholder",
+        "note": "Admin menampilkan instruksi umum dan pilihan placeholder, bukan pertanyaan asli. Kunci A admin tidak memvalidasi soal pengganti.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
+      "originalSource": {
+        "stem": null,
+        "instruction": "I. PILIHAN GANDA Pilihlah salah satu jawaban yang paling tepat!",
+        "options": [
+          "Pilihan Jawaban A",
+          "Pilihan Jawaban B",
+          "Pilihan Jawaban C",
+          "Pilihan Jawaban D"
+        ],
+        "sourceKey": "A"
+      },
       "answerable": false,
       "graded": false
     },
@@ -259,11 +287,21 @@
       "topic": "Statistika",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 174851.png"
+        "Cuplikan layar 2026-11-04 174851.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -283,11 +321,21 @@
       "topic": "Persentase",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 174857.png"
+        "Cuplikan layar 2026-11-04 174857.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
       ],
       "status": "complete",
       "issue": "Satuan selisih semestinya poin persentase; opsi sumber dipertahankan.",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -307,11 +355,21 @@
       "topic": "Persentase",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 174903.png"
+        "Cuplikan layar 2026-11-04 174903.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -331,11 +389,21 @@
       "topic": "Geometri",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 174908.png"
+        "Cuplikan layar 2026-11-04 174908.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -356,11 +424,21 @@
       "level": "Sedang",
       "sources": [
         "Cuplikan layar 2026-11-04 174928.png",
-        "Cuplikan layar 2026-11-04 174934.png"
+        "Cuplikan layar 2026-11-04 174934.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
       ],
       "status": "complete",
       "issue": "Infografis sumber tidak mencantumkan Data; jawaban diturunkan dengan asumsi total empat elemen = 100%.",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -380,11 +458,21 @@
       "topic": "Persentase",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 174940.png"
+        "Cuplikan layar 2026-11-04 174940.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -404,11 +492,21 @@
       "topic": "Geometri",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 174946.png"
+        "Cuplikan layar 2026-11-04 174946.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -428,11 +526,21 @@
       "topic": "Interpretasi data",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 174951.png"
+        "Cuplikan layar 2026-11-04 174951.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
       ],
       "status": "complete",
       "issue": "Proporsi Data dan Peluang tidak tertulis di stimulus ini; membutuhkan asumsi total 100%.",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -452,11 +560,21 @@
       "topic": "Penalaran",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 174957.png"
+        "Cuplikan layar 2026-11-04 174957.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan. Gambar admin hanya menampilkan judul, instruksi, dan kunci nomor 10; stem/pilihan tetap mengacu screenshot peserta.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.51 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -477,11 +595,21 @@
       "level": "Mudah",
       "sources": [
         "Cuplikan layar 2026-11-04 175007.png",
-        "Cuplikan layar 2026-11-04 175028.png"
+        "Cuplikan layar 2026-11-04 175028.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -501,11 +629,21 @@
       "topic": "Aljabar",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 175043.png"
+        "Cuplikan layar 2026-11-04 175043.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "matches",
+        "note": "Kunci admin sesuai analisis.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -525,11 +663,21 @@
       "topic": "Geometri",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 175054.png"
+        "Cuplikan layar 2026-11-04 175054.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -549,11 +697,21 @@
       "topic": "Statistika",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 175104.png"
+        "Cuplikan layar 2026-11-04 175104.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -576,11 +734,23 @@
         "Cuplikan layar 2026-11-04 175114.png",
         "Cuplikan layar 2026-11-04 175125.png",
         "Cuplikan layar 2026-11-04 175130.png",
-        "Cuplikan layar 2026-11-04 175135.png"
+        "Cuplikan layar 2026-11-04 175135.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "A",
+        "result": "differs",
+        "note": "Kunci admin A tidak sesuai perhitungan atau isi stimulus; penskoran memakai kunci editorial dengan pembahasan.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52.jpeg",
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -603,11 +773,21 @@
       "topic": "Interpretasi data",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 175141.png"
+        "Cuplikan layar 2026-11-04 175141.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "opt1",
+        "result": "unusable",
+        "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -630,11 +810,21 @@
       "topic": "Penalaran",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-04 175147.png"
+        "Cuplikan layar 2026-11-04 175147.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "opt1",
+        "result": "unusable",
+        "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -657,11 +847,21 @@
       "topic": "Geometri",
       "level": "Mudah",
       "sources": [
-        "Cuplikan layar 2026-11-04 175152.png"
+        "Cuplikan layar 2026-11-04 175152.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
       ],
       "status": "complete",
       "issue": "",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "opt1",
+        "result": "unusable",
+        "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -684,11 +884,23 @@
       "topic": "Aljabar",
       "level": "Sedang",
       "sources": [
-        "Cuplikan layar 2026-11-04 175156.png"
+        "Cuplikan layar 2026-11-04 175156.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
       ],
       "status": "complete",
       "issue": "Opsi B cukup luas; kunci editorial mengasumsikan pemodelan pertumbuhan, bukan sekadar pencacahan.",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": null,
+        "result": "not-visible",
+        "note": "Judul nomor 19 dan pilihan tampak pada dua gambar berurutan; label kuncinya tidak terlihat. Tidak menebak kunci sumber.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.52 (1).jpeg",
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -707,7 +919,7 @@
         "B",
         "C"
       ],
-      "explanation": "A memadukan analisis statistik dengan model tren biaya. B memakai operasi bilangan dalam pengukuran luas geometri. C memakai bentuk dan operasi aljabar dalam rumus peluang, misalnya P(A) = n(A)/n(S). D tidak menunjukkan keterkaitan langsung: rerata nilai ditentukan melalui jumlah nilai dibagi banyak data, bukan geometri. Screenshot pertanyaan dipetakan ke nomor 20 berdasarkan urutan setelah stimulus nomor 20 dan sebelum stimulus nomor 21.",
+      "explanation": "A memadukan analisis statistik dengan model tren biaya. B memakai operasi bilangan dalam pengukuran luas geometri. C memakai bentuk dan operasi aljabar dalam rumus peluang, misalnya P(A) = n(A)/n(S). D tidak menunjukkan keterkaitan langsung: rerata nilai ditentukan melalui jumlah nilai dibagi banyak data, bukan geometri. Nomor 20 kini terkonfirmasi melalui screenshot super admin.",
       "form": "PGK MCMA",
       "topic": "Penalaran",
       "level": "Sedang",
@@ -715,11 +927,21 @@
         "Cuplikan layar 2026-11-04 175203.png",
         "Cuplikan layar 2026-11-04 175215.png",
         "Cuplikan layar 2026-11-04 175221.png",
-        "Cuplikan layar 2026-11-04 175229.png"
+        "Cuplikan layar 2026-11-04 175229.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
       ],
       "status": "complete",
-      "issue": "Nomor tidak tertulis pada potongan pertanyaan; dipetakan ke 20 berdasarkan urutan berkas dan kelompok stimulus. Kunci adalah analisis editorial.",
+      "issue": "Nomor 20 dikonfirmasi screenshot super admin. Kunci jamak dianalisis terpisah dari label default admin; perbandingan dibuka pada pembahasan.",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "opt1",
+        "result": "unusable",
+        "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true
     },
@@ -738,7 +960,7 @@
         "B",
         "C"
       ],
-      "explanation": "A, B, dan C sesuai penerapan geometri, aljabar, dan statistika pada konteks kehidupan nyata. Rotasi/dilatasi tidak langsung menentukan jumlah pengunjung. Screenshot pilihan tidak menampilkan nomor; urutan berkas menempatkannya setelah stimulus 21 dan sebelum 22, sehingga penempatan 21 perlu konfirmasi.",
+      "explanation": "A, B, dan C sesuai penerapan geometri, aljabar, dan statistika pada konteks kehidupan nyata. Rotasi/dilatasi tidak langsung menentukan jumlah pengunjung. Screenshot super admin menampilkan nomor 21 bersama pertanyaan dan pilihan ini, sehingga penomorannya terkonfirmasi dan soal ikut skor.",
       "form": "PGK MCMA",
       "topic": "Penalaran",
       "level": "Sedang",
@@ -747,13 +969,23 @@
         "Cuplikan layar 2026-11-04 175247.png",
         "Cuplikan layar 2026-11-04 175255.png",
         "Cuplikan layar 2026-11-04 175300.png",
-        "Cuplikan layar 2026-11-04 175307.png"
+        "Cuplikan layar 2026-11-04 175307.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
       ],
-      "status": "unconfirmed",
-      "issue": "Screenshot pertanyaan tidak menampilkan nomor. Dikaitkan sementara ke 21 menurut urutan berkas; teksnya juga cocok dengan stimulus 20. Tidak dimasukkan dalam skor sampai dikonfirmasi.",
+      "status": "complete",
+      "issue": "Nomor 21 terkonfirmasi melalui screenshot super admin. Kunci jamak dianalisis terpisah dari label default admin; perbandingan dibuka pada pembahasan.",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "opt1",
+        "result": "unusable",
+        "note": "Label opt1 hanya menunjuk pilihan pertama; tidak cukup untuk memvalidasi seluruh kunci jamak.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
-      "graded": false
+      "graded": true
     },
     {
       "n": 22,
@@ -777,11 +1009,21 @@
       "level": "Sedang",
       "sources": [
         "Cuplikan layar 2026-11-04 175317.png",
-        "Cuplikan layar 2026-11-04 175322.png"
+        "Cuplikan layar 2026-11-04 175322.png",
+        "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
       ],
       "status": "repaired",
       "issue": "Sumber memiliki empat pernyataan tetapi tabel hanya tiga baris placeholder; UI memakai empat pernyataan yang sesungguhnya.",
       "keyOrigin": "Analisis editorial; bukan kunci resmi",
+      "adminReview": {
+        "sourceKey": "[object Object]",
+        "result": "unusable",
+        "note": "Label [object Object] adalah hasil serialisasi yang tidak terbaca sebagai kunci kategori. Empat pernyataan asli dikonfirmasi.",
+        "sources": [
+          "In super admin/WhatsApp Image 2026-11-04 at 19.22.53.jpeg"
+        ],
+        "numberingConfirmed": true
+      },
       "answerable": true,
       "graded": true,
       "labels": [
@@ -792,9 +1034,16 @@
   ],
   "analysis": "analisis-soal-ts-sick-boii.html",
   "original": true,
-  "screenshotCount": 39,
-  "revision": "b7ab4b84805a",
-  "storageKey": "ts-sick-boii-math-attempt-b7ab4b84805a",
-  "lead": "Matematika dari screenshotmu, disalin sebagai teks interaktif. Stimulus terhubung kembali ke setiap soal, dengan audit kelengkapan dan pembahasan hasil analisis.",
-  "aboutHTML": "<p>Seluruh 39 screenshot dibaca dan dipetakan ke 22 nomor. 20 nomor masuk penskoran. Awal stimulus 6–10, lanjutan stimulus dan infografis 11–14, serta pertanyaan 15 dan 20 telah dilengkapi dari empat screenshot tambahan. Nomor 1 belum lengkap. Penempatan screenshot pertanyaan yang diduga nomor 21 belum terkonfirmasi, sehingga tidak ikut skor. Nomor 20 dipetakan menurut urutan berkas setelah stimulus 20. Tabel nomor 22 diperbaiki menjadi empat pernyataan asli.</p><p>30 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi yang terbukti dari screenshot.</p><p>Sumber yang tertulis pada screenshot: Disadur dari Kemendikbudristek, Buku Teks Pelajaran Tes Kemampuan Akademik (TKA) Kelas TKA SMP/MTs (Perkaban No. 047/H/AN/2025). Atribusi ini disalin dari screenshot; asal naskah dan distribusi bobotnya belum diverifikasi secara independen.</p><p>Kunci dan estimasi tingkat kesulitan merupakan hasil analisis editorial; bukan kunci resmi. Angka bobot berbeda antarestimulus dan dipakai hanya pada kelompok soal yang bersangkutan.</p><p><a href=\"analisis-soal-ts-sick-boii.html\">Buka analisis seluruh nomor dan inventaris screenshot</a>.</p>"
+  "pdf": "Ts_Sick_Boii_Matematika_Soal_dan_Pembahasan.pdf",
+  "auditNote": "39 screenshot peserta + 5 screenshot super admin dicocokkan. Nomor 20 dan 21 kini terkonfirmasi. Kunci default admin dicatat terpisah; skor latihan memakai analisis dengan pembahasan. Paket orisinal mempertahankan redaksi dan pilihan sumber. Nomor 1 masih placeholder dan tidak dinilai; 21 nomor lainnya ikut skor editorial.",
+  "variant": "original",
+  "variantLabel": "Orisinal",
+  "counterpart": "Ts_Sick_Boii_Matematika_Modifikasi.html",
+  "screenshotCount": 44,
+  "originalScreenshotCount": 39,
+  "adminScreenshotCount": 5,
+  "revision": "112c96181322",
+  "storageKey": "ts-sick-boii-math-original-attempt-112c96181322",
+  "lead": "Dua versi, satu sumber yang diaudit. Redaksi orisinal, perubahan editorial, dan perbandingan kunci admin tersedia terpisah; seluruh stimulus dapat dibuka offline.",
+  "aboutHTML": "<p>39 screenshot peserta + 5 screenshot super admin dicocokkan. Nomor 20 dan 21 kini terkonfirmasi. Kunci default admin dicatat terpisah; skor latihan memakai analisis dengan pembahasan. Paket orisinal mempertahankan redaksi dan pilihan sumber. Nomor 1 masih placeholder dan tidak dinilai; 21 nomor lainnya ikut skor editorial.</p><p>30 menit adalah durasi latihan yang dipilih untuk situs, bukan durasi resmi yang terbukti dari screenshot.</p><p>Sumber yang tertulis pada screenshot: Disadur dari Kemendikbudristek, Buku Teks Pelajaran Tes Kemampuan Akademik (TKA) Kelas TKA SMP/MTs (Perkaban No. 047/H/AN/2025). Atribusi ini disalin dari screenshot; asal naskah dan distribusi bobotnya belum diverifikasi secara independen.</p><p>Kunci default admin dibandingkan dengan jawaban hasil analisis di setiap pembahasan. Persentase antarestimulus tetap dipakai pada kelompoknya masing-masing, bukan dianggap bobot resmi.</p><p><a href=\"analisis-soal-ts-sick-boii.html\">Lihat audit orisinal dan modifikasi</a>.</p>"
 }

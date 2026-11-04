@@ -1,15 +1,17 @@
 {
-  "screenshots": 39,
+  "screenshots": 44,
+  "participant_screenshots": 39,
+  "admin_screenshots": 5,
   "math_numbers": 22,
-  "math_graded": 20,
+  "math_graded": 21,
+  "modified_graded": 22,
   "math_forms": {
     "PG": 14,
-    "PGK MCMA": 5,
+    "PGK MCMA": 6,
     "PGK Kategori": 1
   },
   "excluded": [
-    1,
-    21
+    1
   ],
   "output": "ts-sick-boii-site",
   "files": [
@@ -17,10 +19,15 @@
     "Simulasi_Interaktif_TKA_BI_SMP_2026_Final_Boss.html",
     "Simulasi_Interaktif_TKA_BI_SMP_2026_Paket_2.html",
     "Ts_Sick_Boii_Matematika.html",
+    "Ts_Sick_Boii_Matematika_Modifikasi.html",
+    "Ts_Sick_Boii_Matematika_Soal_dan_Pembahasan.pdf",
     "analisis-soal-ts-sick-boii.html",
     "build-validation.json",
+    "data-matematika-modifikasi.json",
     "data-matematika.json",
     "index.html",
+    "key-audit.json",
+    "matematika-soal-dan-pembahasan.html",
     "source-manifest.json"
   ]
 }

@@ -1,5 +1,7 @@
 # Simulasi TKA Bahasa Indonesia SMP 2026
 
+**Live:** https://rxuser2.github.io/tka-bi-smp-2026/
+
 Tiga paket latihan membaca interaktif untuk SMP/MTs, dibuat sebagai satu berkas HTML mandiri. Setiap paket memuat 30 soal, 10 bacaan bergambar, pembahasan, mode malam, pengatur waktu 75 menit, dan penyimpanan jawaban di browser.
 
 ## Paket

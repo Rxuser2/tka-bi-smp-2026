@@ -16,6 +16,10 @@ Situs latihan CBT mandiri untuk SMP/MTs. Tema **meme Mr. Robot** memakai tampila
 
 Isi, gambar, kunci, pembahasan, dan revision key ketiga paket Bahasa Indonesia dipertahankan. Saved attempt lama tetap kompatibel.
 
+## Pusat Data TKA
+
+[Pusat Data TKA](data-tka.html) adalah halaman terpisah untuk membaca data mentah dari endpoint Google Apps Script milik pengguna. Halaman ini tidak mengubah paket latihan dan tidak menyimpan URL sumber di repo: URL ditempel sekali, disimpan hanya di `localStorage` browser, lalu data diambil langsung dari Google. Mode aman aktif secara default dan menyamarkan NISN, NIS, NIK, nomor peserta, kata sandi, token, IP server, serta NIP. Tab yang tersedia: Ringkasan, Sekolah, Peserta, Proktor, Hasil, Bank soal, dan Sumber & catatan; tabel mendukung pencarian, pengurutan, dan paginasi. Matikan mode aman hanya saat layar privat.
+
 ## Audit salinan Matematika
 
 [Soal dan pembahasan per nomor](analisis-soal-ts-sick-boii.html) memakai **[yoo.txt](sources/yoo.txt) sebagai satu-satunya sumber**. Sumber lama tidak digunakan.
